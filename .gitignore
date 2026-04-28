@@ -1,0 +1,9 @@
+credentials.json
+token.json
+service_account.json
+.env
+
+# Office temporary files
+~$*
+.~lock.*
+*.tmp

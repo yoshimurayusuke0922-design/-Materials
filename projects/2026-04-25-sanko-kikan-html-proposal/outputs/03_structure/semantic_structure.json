@@ -1,0 +1,66 @@
+{
+  "root": {
+    "tag": "main",
+    "class": "proposal-cover",
+    "children": [
+      {
+        "tag": "div",
+        "class": "cover-shapes",
+        "children": [
+          { "tag": "div", "class": "shape shape-top", "role": "presentation" },
+          { "tag": "div", "class": "shape shape-right", "role": "presentation" },
+          { "tag": "div", "class": "shape shape-bottom-left", "role": "presentation" }
+        ]
+      },
+      {
+        "tag": "header",
+        "class": "cover-client",
+        "text": "株式会社三幸 御中"
+      },
+      {
+        "tag": "section",
+        "class": "cover-hero",
+        "children": [
+          {
+            "tag": "p",
+            "class": "cover-eyebrow",
+            "text": "PROPOSAL"
+          },
+          {
+            "tag": "h1",
+            "class": "cover-title",
+            "children": [
+              { "tag": "span", "text": "日常業務の効率化と将来的な展望を見据えた" },
+              { "tag": "span", "text": "基幹管理システムのご提案" }
+            ]
+          },
+          {
+            "tag": "p",
+            "class": "cover-subtitle",
+            "children": [
+              { "tag": "span", "text": "物件、入居者、契約、反響対応を" },
+              { "tag": "span", "text": "一つの流れで扱う業務基盤の整備" }
+            ]
+          }
+        ]
+      },
+      {
+        "tag": "p",
+        "class": "cover-date",
+        "text": "2026年04月26日"
+      },
+      {
+        "tag": "footer",
+        "class": "cover-brand",
+        "children": [
+          {
+            "tag": "img",
+            "class": "brand-logo",
+            "src": "./assets/fieldx_logo_full.png",
+            "alt": "Field X"
+          }
+        ]
+      }
+    ]
+  }
+}

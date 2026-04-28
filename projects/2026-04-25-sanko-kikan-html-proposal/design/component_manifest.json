@@ -1,0 +1,77 @@
+{
+  "rules": {
+    "text_should_remain_html": true,
+    "avoid_full_slide_generation": true,
+    "image_generation_targets": [
+      "decorative_background",
+      "diagram_base",
+      "ui_frame",
+      "iconic_visual"
+    ]
+  },
+  "slides": [
+    {
+      "slide_id": "cover",
+      "layout_type": "hero_panel_cover",
+      "html_components": [
+        "client_name",
+        "eyebrow",
+        "title",
+        "subtitle",
+        "date"
+      ],
+      "image_components": [
+        "right_red_shape",
+        "top_soft_circle",
+        "bottom_left_shape",
+        "brand_base_panel"
+      ]
+    },
+    {
+      "slide_id": "proposal_summary",
+      "layout_type": "lead_plus_four_cards",
+      "html_components": [
+        "heading",
+        "lead",
+        "card_heading_1",
+        "card_body_1",
+        "card_heading_2",
+        "card_body_2",
+        "card_heading_3",
+        "card_body_3",
+        "card_heading_4",
+        "card_body_4",
+        "bottom_message"
+      ],
+      "image_components": [
+        "card_surface_style",
+        "small_support_icons"
+      ]
+    },
+    {
+      "slide_id": "demo_screens",
+      "layout_type": "placeholder_gallery",
+      "html_components": [
+        "section_heading",
+        "placeholder_labels",
+        "captions"
+      ],
+      "image_components": [
+        "ui_placeholder_frame"
+      ]
+    },
+    {
+      "slide_id": "future_expansion",
+      "layout_type": "hub_and_spoke",
+      "html_components": [
+        "center_label",
+        "card_titles",
+        "card_descriptions"
+      ],
+      "image_components": [
+        "hub_base_visual",
+        "connector_lines"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,462 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>基幹管理システムのご提案</title>
+    <meta
+      name="description"
+      content="株式会社三幸向け 基幹管理システムご提案資料を、編集可能なHTML/CSSデッキとして構築したページです。"
+    />
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <main class="deck">
+      <section class="slide slide-cover" aria-label="表紙">
+        <div class="cover-background" aria-hidden="true">
+          <img src="./assets/cover_bg_decorative_horizontal_v1.png" alt="" />
+        </div>
+        <header class="cover-client">株式会社三幸 御中</header>
+        <h1 class="cover-title">
+          <span>日常業務の効率化と将来的な展望を見据えた</span>
+          <span>基幹管理システムのご提案</span>
+        </h1>
+        <p class="cover-date">2026年04月27日</p>
+        <footer class="cover-brand">
+          <img class="brand-logo" src="./assets/fieldx_logo_full.png" alt="Field X" />
+        </footer>
+      </section>
+
+      <section class="slide slide-agenda" aria-label="目次">
+        <div class="slide-shell">
+          <div class="slide-main no-sidebar">
+            <div class="section-head">
+              <p class="chapter-label">Contents</p>
+              <h2>目次</h2>
+            </div>
+            <div class="agenda-band">今回の資料でご確認いただく内容</div>
+            <div class="agenda-grid">
+              <article class="agenda-card">
+                <div class="agenda-card-top">
+                  <span class="agenda-number">01</span>
+                  <h3>今回のご提案につきまして</h3>
+                </div>
+                <p>切り替え背景、整理すべき論点、今回のご提案の骨子を確認します。</p>
+              </article>
+              <article class="agenda-card">
+                <div class="agenda-card-top">
+                  <span class="agenda-number">02</span>
+                  <h3>デモ画面イメージ</h3>
+                </div>
+                <p>日常運用の確認画面、契約請求対応、出稿と反響対応まで順に見ていきます。</p>
+              </article>
+              <article class="agenda-card">
+                <div class="agenda-card-top">
+                  <span class="agenda-number">03</span>
+                  <h3>将来的な展望と今後の進め方</h3>
+                </div>
+                <p>基幹データ整備の先にある展開イメージと、導入までの進め方を整理します。</p>
+              </article>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="slide slide-divider" aria-label="差し込み 1">
+        <div class="divider-inner">
+          <span class="divider-number">01</span>
+          <h2>今回のご提案につきまして</h2>
+          <p>現在ご相談いただいている要件と、ご提案内容を順にご説明します。</p>
+        </div>
+      </section>
+
+      <section class="slide slide-content" aria-label="現状課題">
+        <div class="slide-shell">
+          <aside class="sidebar">
+            <span class="sidebar-chapter">01</span>
+            <span class="sidebar-text">今回のご提案につきまして</span>
+            <span class="sidebar-page">4</span>
+          </aside>
+          <div class="slide-main">
+            <div class="section-head">
+              <p class="chapter-label">Chapter 1</p>
+              <h2>現状課題</h2>
+            </div>
+            <p class="lead">
+              今回のご相談内容を踏まえると、現場運用に直結する課題は4点に整理できます。
+            </p>
+            <div class="card-grid four">
+              <article class="info-card">
+                <h3>現場に定着しやすい設計</h3>
+                <ul>
+                  <li>IT活用への慣れに差がある</li>
+                  <li>日常業務に自然に入る画面設計が重要</li>
+                  <li>継続して使える導線設計が必要</li>
+                </ul>
+              </article>
+              <article class="info-card">
+                <h3>日常業務の手間</h3>
+                <ul>
+                  <li>修繕対応や契約書作成などの運用負荷が大きい</li>
+                  <li>画面確認だけでなく実務処理まで整理する必要がある</li>
+                  <li>日々のオペレーションを軽くする工夫が必要</li>
+                </ul>
+              </article>
+              <article class="info-card">
+                <h3>スマホ現場対応</h3>
+                <ul>
+                  <li>内見中でも必要情報をその場で確認したい</li>
+                  <li>返信や社内情報参照までスマホで行える状態が求められている</li>
+                  <li>現場で止まらない運用導線が重要</li>
+                </ul>
+              </article>
+              <article class="info-card">
+                <h3>他社物件の出稿</h3>
+                <ul>
+                  <li>自社物件に加え、他社物件も各ポータルへ出稿したい</li>
+                  <li>出稿実務まで含めた運用整理が必要になる</li>
+                  <li>管理画面との連携設計が重要</li>
+                </ul>
+              </article>
+            </div>
+            <p class="bottom-message">
+              今回のご提案では、現場で実際に発生している手間を減らしながら、定着しやすい運用へつなげることが重要です。
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <section class="slide slide-content" aria-label="今回のご提案内容">
+        <div class="slide-shell">
+          <aside class="sidebar">
+            <span class="sidebar-chapter">01</span>
+            <span class="sidebar-text">今回のご提案につきまして</span>
+            <span class="sidebar-page">5</span>
+          </aside>
+          <div class="slide-main">
+            <div class="section-head">
+              <p class="chapter-label">Chapter 1</p>
+              <h2>今回のご提案内容</h2>
+            </div>
+            <p class="lead lead-accent">
+              基幹管理システムを中核に、日常業務を一つの流れで扱える状態を目指します。
+            </p>
+            <div class="card-grid four">
+              <article class="info-card">
+                <h3>基本機能を整理</h3>
+                <ul>
+                  <li>物件、入居者、対応履歴をまとめて確認</li>
+                  <li>日常的な確認と更新の起点を一本化</li>
+                  <li>自社HP、SUUMO等各種ポータルサイトへの出稿に対応</li>
+                </ul>
+              </article>
+              <article class="info-card">
+                <h3>契約・請求対応</h3>
+                <ul>
+                  <li>契約書類と請求対応をシステム内で扱う</li>
+                  <li>契約、請求、インボイス関連業務に対応</li>
+                  <li>実務上の分岐にも対応しやすい構成にする</li>
+                </ul>
+              </article>
+              <article class="info-card">
+                <h3>現場利用しやすいUI</h3>
+                <ul>
+                  <li>内見中の確認や返信対応をその場で進めやすくする</li>
+                  <li>スマホ対応を前提とした情報導線を用意</li>
+                  <li>ITが苦手な方でも使いやすい運用を目指す</li>
+                </ul>
+              </article>
+              <article class="info-card">
+                <h3>拡張性</h3>
+                <ul>
+                  <li>他社物件の出稿まで広げられる構成を見据える</li>
+                  <li>自社HP、SUUMO等各種ポータルサイトへの出稿を想定</li>
+                  <li>基幹データを活かしたAI活用につなげる</li>
+                </ul>
+              </article>
+            </div>
+            <p class="bottom-message">
+              今回のご提案は、必要機能の実装に加え、日常業務全体を整理し直すための基幹整備です。
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <section class="slide slide-divider" aria-label="差し込み 2">
+        <div class="divider-inner">
+          <span class="divider-number">02</span>
+          <h2>デモ画面イメージ</h2>
+          <p>実際の運用イメージを通じて、要件と使い方を具体的に確認します。</p>
+        </div>
+      </section>
+
+      <section class="slide slide-content" aria-label="デモ画面イメージ 1">
+        <div class="slide-shell">
+          <aside class="sidebar">
+            <span class="sidebar-chapter">02</span>
+            <span class="sidebar-text">デモ画面イメージ</span>
+            <span class="sidebar-page">7</span>
+          </aside>
+          <div class="slide-main">
+            <div class="section-head">
+              <p class="chapter-label">Chapter 2</p>
+              <h2>デモ画面イメージ 1</h2>
+            </div>
+            <p class="lead">
+              物件、入居者、空室状況、修繕状況、対応履歴などをまとめて管理できる画面イメージです。
+            </p>
+            <div class="demo-stage single">
+              <div class="demo-frame large">
+                <div class="frame-bar">
+                  <span></span><span></span><span></span>
+                </div>
+                <div class="frame-body frame-dashboard">
+                  <div class="dash-sidebar"></div>
+                  <div class="dash-main">
+                    <div class="dash-row dash-row-top"></div>
+                    <div class="dash-row dash-row-mid"></div>
+                    <div class="dash-row dash-row-bottom"></div>
+                  </div>
+                </div>
+                <p class="frame-label">スクリーンショット挿入予定</p>
+              </div>
+              <div class="callout-stack">
+                <div class="callout-chip">物件情報の確認</div>
+                <div class="callout-chip">入居者情報の確認</div>
+                <div class="callout-chip">空室状況、修繕状況、対応履歴の確認</div>
+                <div class="callout-chip">一覧から詳細へ自然に入れる導線</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="slide slide-content" aria-label="デモ画面イメージ 2">
+        <div class="slide-shell">
+          <aside class="sidebar">
+            <span class="sidebar-chapter">02</span>
+            <span class="sidebar-text">デモ画面イメージ</span>
+            <span class="sidebar-page">8</span>
+          </aside>
+          <div class="slide-main">
+            <div class="section-head">
+              <p class="chapter-label">Chapter 2</p>
+              <h2>デモ画面イメージ 2</h2>
+            </div>
+            <p class="lead">
+              契約、請求、インボイス対応に加え、スマホからの確認や返信対応も行える画面イメージです。
+            </p>
+            <div class="demo-stage split">
+              <div class="demo-frame tall">
+                <div class="frame-bar"><span></span><span></span><span></span></div>
+                <div class="frame-body frame-form"></div>
+                <p class="frame-label">契約 / 請求 / インボイス</p>
+              </div>
+              <div class="demo-frame phone">
+                <div class="phone-notch"></div>
+                <div class="frame-body frame-mobile"></div>
+                <p class="frame-label">スマホ対応</p>
+              </div>
+              <div class="text-panel">
+                <ul class="feature-list">
+                  <li>契約書等作成機能</li>
+                  <li>一時金請求書、家賃明細、各種インボイス対応</li>
+                  <li>一般契約、定期借家、法人契約など複数パターンへの対応</li>
+                  <li>請求先分岐や記載整理など実務上の複雑さへの対応</li>
+                  <li>内見中の確認、メール返信、社内向け情報参照</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="slide slide-content" aria-label="デモ画面イメージ 3">
+        <div class="slide-shell">
+          <aside class="sidebar">
+            <span class="sidebar-chapter">02</span>
+            <span class="sidebar-text">デモ画面イメージ</span>
+            <span class="sidebar-page">9</span>
+          </aside>
+          <div class="slide-main">
+            <div class="section-head">
+              <p class="chapter-label">Chapter 2</p>
+              <h2>デモ画面イメージ 3</h2>
+            </div>
+            <p class="lead">
+              自社物件、他社物件の出稿と反響対応を起点に、AI補助までつなげる画面イメージです。
+            </p>
+            <div class="demo-grid four">
+              <article class="demo-block">
+                <div class="demo-frame small"><div class="frame-body frame-publish"></div></div>
+                <h3>出稿機能</h3>
+                <p>自社物件の出稿機能 / 他社物件の出稿機能</p>
+              </article>
+              <article class="demo-block">
+                <div class="demo-frame small"><div class="frame-body frame-mail"></div></div>
+                <h3>反響取り込み</h3>
+                <p>反響取り込み、メール返信効率化</p>
+              </article>
+              <article class="demo-block">
+                <div class="demo-frame small"><div class="frame-body frame-ai"></div></div>
+                <h3>AI返信補助</h3>
+                <p>AIによる返信文作成、日程調整</p>
+              </article>
+              <article class="demo-block">
+                <div class="demo-frame small"><div class="frame-body frame-search"></div></div>
+                <h3>AI検索</h3>
+                <p>AIによる各種データ検索</p>
+              </article>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="slide slide-divider" aria-label="差し込み 3">
+        <div class="divider-inner">
+          <span class="divider-number">03</span>
+          <h2>将来的な展望と今後の進め方</h2>
+          <p>今回の整備を起点に、今後広げられる活用イメージと進め方を整理します。</p>
+        </div>
+      </section>
+
+      <section class="slide slide-content" aria-label="展開イメージ">
+        <div class="slide-shell">
+          <aside class="sidebar">
+            <span class="sidebar-chapter">03</span>
+            <span class="sidebar-text">将来的な展望と今後の進め方</span>
+            <span class="sidebar-page">11</span>
+          </aside>
+          <div class="slide-main">
+            <div class="section-head">
+              <p class="chapter-label">Chapter 3</p>
+              <h2>展開イメージ</h2>
+            </div>
+            <p class="lead">
+              基幹データを整えることで、日常業務の効率化だけでなく、将来的なAI活用や周辺業務への展開がしやすくなります。
+            </p>
+            <div class="hub-layout">
+              <div class="hub-card hub-top-left">
+                <h3>反響対応のAI支援</h3>
+                <p>反響内容や物件情報をもとに返信文作成や日程調整を補助。</p>
+              </div>
+              <div class="hub-card hub-top-right">
+                <h3>社内データ横断検索</h3>
+                <p>物件、顧客、対応履歴、契約関連情報を横断して確認。</p>
+              </div>
+              <div class="hub-center">
+                <div class="hub-circle outer"></div>
+                <div class="hub-circle middle"></div>
+                <div class="hub-circle inner"></div>
+                <div class="hub-label">
+                  <strong>基幹データ</strong>
+                  <span>物件、顧客、契約、対応履歴を一つの基盤で整理</span>
+                </div>
+              </div>
+              <div class="hub-card hub-bottom-left">
+                <h3>営業支援への展開</h3>
+                <p>オーナー様訪問前の確認や提案準備を支える情報活用へ展開。</p>
+              </div>
+              <div class="hub-card hub-bottom-right">
+                <h3>書類活用への展開</h3>
+                <p>契約や社内文書作成の補助へ広げることができる。</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="slide slide-content roadmap-reference" aria-label="今後の進め方">
+        <div class="slide-shell">
+          <aside class="sidebar">
+            <span class="sidebar-chapter">03</span>
+            <span class="sidebar-text">将来的な展望と今後の進め方</span>
+            <span class="sidebar-page">12</span>
+          </aside>
+          <div class="slide-main">
+            <div class="section-head">
+              <p class="chapter-label">Chapter 3</p>
+              <h2>今後の進め方</h2>
+            </div>
+            <p class="lead">
+              繁忙期であると推察されますので、できる限り現場の混乱を避け円滑に進めるため、下記のような流れで進めさせていただければ幸いです。
+            </p>
+            <div class="roadmap">
+              <div class="roadmap-line"></div>
+              <article class="road-step">
+                <span class="road-step-no">01</span>
+                <h3>ご契約</h3>
+                <p>NDAや個別契約など各種ご契約を結ばせていただきます。</p>
+              </article>
+              <article class="road-step">
+                <span class="road-step-no">02</span>
+                <h3>進め方の確認</h3>
+                <p>現場の混乱を起こさないよう詳細プランニングをご提案し、すり合わせます。</p>
+              </article>
+              <article class="road-step">
+                <span class="road-step-no">03</span>
+                <h3>データ移行先の準備</h3>
+                <p>移行先を先に準備し、以後発生するデータを格納しながら利用できる箱を整えます。</p>
+              </article>
+              <article class="road-step">
+                <span class="road-step-no">04</span>
+                <h3>エージェント開発</h3>
+                <p>毎週のご報告会を行い、使用感やUIなどをすり合わせながら開発を進めます。</p>
+              </article>
+              <article class="road-step">
+                <span class="road-step-no">05</span>
+                <h3>現場導入</h3>
+                <p>小規模でのテスト運用後、本格的に現場導入を行います。</p>
+              </article>
+              <article class="road-step">
+                <span class="road-step-no">06</span>
+                <h3>改善</h3>
+                <p>細かいアップデートを繰り返しながら現場で定着するまで伴走支援いたします。</p>
+              </article>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="slide slide-content" aria-label="補助金活用について">
+        <div class="slide-shell">
+          <aside class="sidebar">
+            <span class="sidebar-chapter">03</span>
+            <span class="sidebar-text">将来的な展望と今後の進め方</span>
+            <span class="sidebar-page">13</span>
+          </aside>
+          <div class="slide-main">
+            <div class="section-head">
+              <p class="chapter-label">Chapter 3</p>
+              <h2>補助金活用について</h2>
+            </div>
+            <p class="lead">
+              AIを含めた開発に進む場合は、補助金活用の可能性や申請支援についてもあわせて確認いただけます。
+            </p>
+            <div class="two-column">
+              <article class="info-card">
+                <h3>補助金活用の可能性</h3>
+                <ul>
+                  <li>中小企業省力化投資補助金（一般型）等の活用可能性</li>
+                  <li>条件次第で最大6,500万円</li>
+                  <li>詳細条件は公募要領と個別要件の確認が必要</li>
+                </ul>
+              </article>
+              <article class="info-card">
+                <h3>サポート内容</h3>
+                <ul>
+                  <li>申請可否の確認</li>
+                  <li>申請資料整理のサポート</li>
+                  <li>開発計画と補助金申請観点の整理</li>
+                </ul>
+              </article>
+            </div>
+            <p class="bottom-note">
+              補助金の活用可否、補助対象経費、補助率、採択結果は公募要領と個別要件により異なります。
+            </p>
+          </div>
+        </div>
+      </section>
+    </main>
+  </body>
+</html>

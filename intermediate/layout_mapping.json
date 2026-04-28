@@ -1,0 +1,43 @@
+{
+  "source": {
+    "html_file": "out/sanko_html/rebuilt_slides/index.html",
+    "css_file": "out/sanko_html/rebuilt_slides/styles.css",
+    "slide_width_px": 1672,
+    "slide_height_px": 941,
+    "rail_width_px": 74,
+    "css_variables": {
+      "--red": "#f80612",
+      "--red-deep": "#d9000b",
+      "--red-soft": "#ffe7e8",
+      "--ink": "#101214",
+      "--text": "#2d3338",
+      "--muted": "#687079",
+      "--line": "#d9dde2",
+      "--bg": "#f7f7f6",
+      "--card": "#fff",
+      "--shadow": "0 18px 36px rgb(24 31 38 / 0.12)",
+      "--soft-shadow": "0 10px 24px rgb(24 31 38 / 0.08)",
+      "--slide-w": "1672px",
+      "--slide-h": "941px",
+      "--rail": "74px"
+    }
+  },
+  "target": {
+    "width": 720,
+    "height": 405,
+    "unit": "PT",
+    "source_width_px": 1672,
+    "source_height_px": 941
+  },
+  "scale": {
+    "x": 0.430622009569378,
+    "y": 0.4303931987247609,
+    "font_rule": "source CSS px * target_height / source_height * 1.12"
+  },
+  "decisions": [
+    "本文・見出し・箇条書き・数値はGoogleスライドのtext要素として再生成する。",
+    "カード、帯、サイドレール、区切り線はshape/line要素として再生成する。",
+    "アイコン、ロゴ、複雑なイラスト、スクリーンショット枠の画像はimage要素として扱う。",
+    "CSSグラデーション、影、clip-path、SVGの細かい破線はGoogleスライドの単純図形に近似する。"
+  ]
+}

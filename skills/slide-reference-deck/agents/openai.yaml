@@ -1,0 +1,4 @@
+interface:
+  display_name: "Slide Reference Deck"
+  short_description: "Create Google Slides backgrounds from reference decks."
+  default_prompt: "Use $slide-reference-deck to create a new presentation workflow from reference slide images."

@@ -1,0 +1,83 @@
+{
+  "page_type": "slide_cover",
+  "source_count": 1,
+  "blocks": [
+    {
+      "id": "background_canvas",
+      "type": "background",
+      "position": "full_page",
+      "importance": "low",
+      "description": "淡いグレー背景のキャンバス"
+    },
+    {
+      "id": "shape_top_soft_circle",
+      "type": "decorative_shape",
+      "position": "top_center",
+      "importance": "low",
+      "description": "上部の淡い赤い半円"
+    },
+    {
+      "id": "shape_right_blob",
+      "type": "decorative_shape",
+      "position": "right",
+      "importance": "medium",
+      "description": "右側の大きな赤い有機形状"
+    },
+    {
+      "id": "shape_bottom_left_blob",
+      "type": "decorative_shape",
+      "position": "bottom_left",
+      "importance": "low",
+      "description": "左下の赤い有機形状"
+    },
+    {
+      "id": "client_name",
+      "type": "label",
+      "position": "upper_left",
+      "importance": "medium",
+      "description": "宛先名"
+    },
+    {
+      "id": "hero_panel",
+      "type": "panel",
+      "position": "center_left",
+      "importance": "high",
+      "description": "タイトルとサブタイトルを載せるメイン白パネル"
+    },
+    {
+      "id": "eyebrow",
+      "type": "heading_label",
+      "position": "inside_hero_panel_top",
+      "importance": "medium",
+      "description": "PROPOSALラベル"
+    },
+    {
+      "id": "hero_title",
+      "type": "heading",
+      "position": "inside_hero_panel_center",
+      "importance": "high",
+      "description": "メインタイトル"
+    },
+    {
+      "id": "hero_subtitle",
+      "type": "paragraph",
+      "position": "inside_hero_panel_bottom",
+      "importance": "medium",
+      "description": "サブタイトル"
+    },
+    {
+      "id": "issue_date",
+      "type": "meta",
+      "position": "bottom_left",
+      "importance": "medium",
+      "description": "日付"
+    },
+    {
+      "id": "brand_panel",
+      "type": "brand",
+      "position": "bottom_center_right",
+      "importance": "medium",
+      "description": "Field Xロゴを置く白パネル"
+    }
+  ]
+}

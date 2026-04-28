@@ -1,0 +1,4 @@
+interface:
+  display_name: "Slide Sidebar Raster Adjuster"
+  short_description: "Thin raster slide sidebars without crushing text"
+  default_prompt: "Use $slide-sidebar-raster-adjuster to adjust a narrowed slide sidebar in a PNG while preserving the slide body."

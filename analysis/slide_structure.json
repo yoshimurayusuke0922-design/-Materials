@@ -1,0 +1,2195 @@
+{
+  "source": {
+    "html_file": "out/sanko_html/rebuilt_slides/index.html",
+    "css_file": "out/sanko_html/rebuilt_slides/styles.css",
+    "slide_width_px": 1672,
+    "slide_height_px": 941,
+    "rail_width_px": 74,
+    "css_variables": {
+      "--red": "#f80612",
+      "--red-deep": "#d9000b",
+      "--red-soft": "#ffe7e8",
+      "--ink": "#101214",
+      "--text": "#2d3338",
+      "--muted": "#687079",
+      "--line": "#d9dde2",
+      "--bg": "#f7f7f6",
+      "--card": "#fff",
+      "--shadow": "0 18px 36px rgb(24 31 38 / 0.12)",
+      "--soft-shadow": "0 10px 24px rgb(24 31 38 / 0.08)",
+      "--slide-w": "1672px",
+      "--slide-h": "941px",
+      "--rail": "74px"
+    }
+  },
+  "slide_count": 12,
+  "slides": [
+    {
+      "slide_number": 1,
+      "source_id": "slide-01-cover",
+      "source_file": "01_cover.png",
+      "classes": [
+        "slide",
+        "slide-01-cover"
+      ],
+      "background_color": "#f7f7f6",
+      "title": "日常業務の効率化と将来的な展望を見据えた基幹管理システムのご提案",
+      "headings": [
+        {
+          "level": "h1",
+          "classes": [
+            "cover-title"
+          ],
+          "text": "日常業務の効率化と将来的な展望を見据えた基幹管理システムのご提案"
+        }
+      ],
+      "body": [
+        "株式会社三幸 御中",
+        "2026年04月27日"
+      ],
+      "bullets": [],
+      "cards": [],
+      "text_blocks": [
+        {
+          "tag": "p",
+          "classes": [
+            "recipient"
+          ],
+          "role": "recipient",
+          "text": "株式会社三幸 御中"
+        },
+        {
+          "tag": "h1",
+          "classes": [
+            "cover-title"
+          ],
+          "role": "title",
+          "text": "日常業務の効率化と将来的な展望を見据えた基幹管理システムのご提案"
+        },
+        {
+          "tag": "p",
+          "classes": [
+            "cover-date"
+          ],
+          "role": "date",
+          "text": "2026年04月27日"
+        }
+      ],
+      "shapes": [
+        {
+          "tag": "div",
+          "classes": [
+            "shape",
+            "shape-cover-right"
+          ]
+        },
+        {
+          "tag": "div",
+          "classes": [
+            "shape",
+            "shape-cover-bottom"
+          ]
+        },
+        {
+          "tag": "div",
+          "classes": [
+            "shape",
+            "shape-cover-top"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "./assets/fieldx_logo_full.png",
+          "resolved": "C:\\Users\\81809\\OneDrive\\デスクトップ\\事業\\資料作成\\out\\sanko_html\\rebuilt_slides\\assets\\fieldx_logo_full.png",
+          "classes": [
+            "cover-logo"
+          ],
+          "alt": "Field X",
+          "role": "logo",
+          "exists": true
+        }
+      ],
+      "icons": [
+        {
+          "src": "./assets/fieldx_logo_full.png",
+          "resolved": "C:\\Users\\81809\\OneDrive\\デスクトップ\\事業\\資料作成\\out\\sanko_html\\rebuilt_slides\\assets\\fieldx_logo_full.png",
+          "classes": [
+            "cover-logo"
+          ],
+          "alt": "Field X",
+          "role": "logo",
+          "exists": true
+        }
+      ],
+      "layout_notes": {
+        "has_rail": false,
+        "is_divider": false,
+        "card_count": 0,
+        "image_count": 1,
+        "missing_image_count": 0
+      }
+    },
+    {
+      "slide_number": 2,
+      "source_id": "slide-02-agenda",
+      "source_file": "02_agenda.png",
+      "classes": [
+        "slide",
+        "slide-02-agenda"
+      ],
+      "background_color": "#f7f7f6",
+      "title": "目次",
+      "headings": [
+        {
+          "level": "h2",
+          "classes": [],
+          "text": "目次"
+        },
+        {
+          "level": "h3",
+          "classes": [
+            "nowrap-title"
+          ],
+          "text": "今回のご提案につきまして"
+        },
+        {
+          "level": "h3",
+          "classes": [],
+          "text": "デモ画面イメージ"
+        },
+        {
+          "level": "h3",
+          "classes": [],
+          "text": "将来的な展望と今後の進め方"
+        }
+      ],
+      "body": [
+        "本提案の全体像についてご説明します。",
+        "基幹管理システムの主要機能について、画面イメージをもとにご紹介します。",
+        "今後の機能拡張の方向性と導入までの進め方・スケジュールをご案内します。"
+      ],
+      "bullets": [],
+      "cards": [
+        {
+          "classes": [
+            "agenda-card"
+          ],
+          "heading": "今回のご提案につきまして",
+          "paragraphs": [
+            "本提案の全体像についてご説明します。"
+          ],
+          "bullets": [],
+          "images": [],
+          "text": "01今回のご提案につきまして本提案の全体像についてご説明します。"
+        },
+        {
+          "classes": [
+            "agenda-card"
+          ],
+          "heading": "デモ画面イメージ",
+          "paragraphs": [
+            "基幹管理システムの主要機能について、画面イメージをもとにご紹介します。"
+          ],
+          "bullets": [],
+          "images": [],
+          "text": "02デモ画面イメージ基幹管理システムの主要機能について、画面イメージをもとにご紹介します。"
+        },
+        {
+          "classes": [
+            "agenda-card"
+          ],
+          "heading": "将来的な展望と今後の進め方",
+          "paragraphs": [
+            "今後の機能拡張の方向性と導入までの進め方・スケジュールをご案内します。"
+          ],
+          "bullets": [],
+          "images": [],
+          "text": "03将来的な展望と今後の進め方今後の機能拡張の方向性と導入までの進め方・スケジュールをご案内します。"
+        }
+      ],
+      "text_blocks": [
+        {
+          "tag": "h2",
+          "classes": [],
+          "role": "title",
+          "text": "目次"
+        },
+        {
+          "tag": "div",
+          "classes": [
+            "agenda-no"
+          ],
+          "role": "number",
+          "text": "01"
+        },
+        {
+          "tag": "h3",
+          "classes": [
+            "nowrap-title"
+          ],
+          "role": "heading",
+          "text": "今回のご提案につきまして"
+        },
+        {
+          "tag": "p",
+          "classes": [],
+          "role": "body",
+          "text": "本提案の全体像についてご説明します。"
+        },
+        {
+          "tag": "div",
+          "classes": [
+            "agenda-no"
+          ],
+          "role": "number",
+          "text": "02"
+        },
+        {
+          "tag": "h3",
+          "classes": [],
+          "role": "heading",
+          "text": "デモ画面イメージ"
+        },
+        {
+          "tag": "p",
+          "classes": [],
+          "role": "body",
+          "text": "基幹管理システムの主要機能について、画面イメージをもとにご紹介します。"
+        },
+        {
+          "tag": "div",
+          "classes": [
+            "agenda-no"
+          ],
+          "role": "number",
+          "text": "03"
+        },
+        {
+          "tag": "h3",
+          "classes": [],
+          "role": "heading",
+          "text": "将来的な展望と今後の進め方"
+        },
+        {
+          "tag": "p",
+          "classes": [
+            "agenda-two-line"
+          ],
+          "role": "body",
+          "text": "今後の機能拡張の方向性と導入までの進め方・スケジュールをご案内します。"
+        }
+      ],
+      "shapes": [
+        {
+          "tag": "div",
+          "classes": [
+            "top-line"
+          ]
+        },
+        {
+          "tag": "div",
+          "classes": [
+            "shape",
+            "shape-agenda-corner"
+          ]
+        },
+        {
+          "tag": "div",
+          "classes": [
+            "shape",
+            "shape-agenda-bottom"
+          ]
+        },
+        {
+          "tag": "div",
+          "classes": [
+            "red-mark"
+          ]
+        }
+      ],
+      "images": [],
+      "icons": [],
+      "layout_notes": {
+        "has_rail": false,
+        "is_divider": false,
+        "card_count": 3,
+        "image_count": 0,
+        "missing_image_count": 0
+      }
+    },
+    {
+      "slide_number": 3,
+      "source_id": "slide-03-divider-proposal",
+      "source_file": "03_divider_proposal.png",
+      "classes": [
+        "slide",
+        "divider",
+        "slide-03-divider-proposal"
+      ],
+      "background_color": "#f80612",
+      "title": "今回のご提案につきまして",
+      "headings": [
+        {
+          "level": "h2",
+          "classes": [],
+          "text": "今回のご提案につきまして"
+        }
+      ],
+      "body": [],
+      "bullets": [],
+      "cards": [],
+      "text_blocks": [
+        {
+          "tag": "div",
+          "classes": [
+            "divider-no"
+          ],
+          "role": "number",
+          "text": "01"
+        },
+        {
+          "tag": "h2",
+          "classes": [],
+          "role": "title",
+          "text": "今回のご提案につきまして"
+        }
+      ],
+      "shapes": [],
+      "images": [],
+      "icons": [],
+      "layout_notes": {
+        "has_rail": false,
+        "is_divider": true,
+        "card_count": 0,
+        "image_count": 0,
+        "missing_image_count": 0
+      }
+    },
+    {
+      "slide_number": 4,
+      "source_id": "slide-05-proposal-summary",
+      "source_file": "05_proposal_summary.png",
+      "classes": [
+        "slide",
+        "with-rail",
+        "slide-05-proposal-summary"
+      ],
+      "background_color": "#f7f7f6",
+      "title": "今回のご提案内容",
+      "headings": [
+        {
+          "level": "h2",
+          "classes": [],
+          "text": "今回のご提案内容"
+        },
+        {
+          "level": "h3",
+          "classes": [],
+          "text": "基本機能を一つの基盤に整理"
+        },
+        {
+          "level": "h3",
+          "classes": [],
+          "text": "修繕対応・契約書作成業務の効率化"
+        },
+        {
+          "level": "h3",
+          "classes": [],
+          "text": "現場利用しやすいUIとスマホ対応"
+        },
+        {
+          "level": "h3",
+          "classes": [],
+          "text": "他社物件の出稿機能・今後のAI活用への拡張性"
+        }
+      ],
+      "body": [
+        "物件管理、入居者管理、契約書作成、反響取り込み、自社物件の出稿等、基幹管理に必要なデータを集約します。",
+        "退去修繕・契約業務等を含めたオペレーションを標準化し、業務内容を効率化します。",
+        "直感的な画面設計により操作しやすく、現場へのスムーズな導入が可能です。スマホ対応で外出先でも快適な利用が可能です。",
+        "他社物件の出稿機能や、AIによる自動化など、将来的な拡張に柔軟に対応。"
+      ],
+      "bullets": [],
+      "cards": [
+        {
+          "classes": [
+            "card",
+            "proposal-card"
+          ],
+          "heading": "基本機能を一つの基盤に整理",
+          "paragraphs": [
+            "物件管理、入居者管理、契約書作成、反響取り込み、自社物件の出稿等、基幹管理に必要なデータを集約します。"
+          ],
+          "bullets": [],
+          "images": [
+            "./assets/image2_proposal_core_system.png"
+          ],
+          "text": "基本機能を一つの基盤に整理物件管理、入居者管理、契約書作成、反響取り込み、自社物件の出稿等、基幹管理に必要なデータを集約します。"
+        },
+        {
+          "classes": [
+            "card",
+            "proposal-card"
+          ],
+          "heading": "修繕対応・契約書作成業務の効率化",
+          "paragraphs": [
+            "退去修繕・契約業務等を含めたオペレーションを標準化し、業務内容を効率化します。"
+          ],
+          "bullets": [],
+          "images": [
+            "./assets/image2_proposal_repair_contract.png"
+          ],
+          "text": "修繕対応・契約書作成業務の効率化退去修繕・契約業務等を含めたオペレーションを標準化し、業務内容を効率化します。"
+        },
+        {
+          "classes": [
+            "card",
+            "proposal-card"
+          ],
+          "heading": "現場利用しやすいUIとスマホ対応",
+          "paragraphs": [
+            "直感的な画面設計により操作しやすく、現場へのスムーズな導入が可能です。スマホ対応で外出先でも快適な利用が可能です。"
+          ],
+          "bullets": [],
+          "images": [
+            "./assets/image2_proposal_mobile_ui.png"
+          ],
+          "text": "現場利用しやすいUIとスマホ対応直感的な画面設計により操作しやすく、現場へのスムーズな導入が可能です。スマホ対応で外出先でも快適な利用が可能です。"
+        },
+        {
+          "classes": [
+            "card",
+            "proposal-card"
+          ],
+          "heading": "他社物件の出稿機能・今後のAI活用への拡張性",
+          "paragraphs": [
+            "他社物件の出稿機能や、AIによる自動化など、将来的な拡張に柔軟に対応。"
+          ],
+          "bullets": [],
+          "images": [
+            "./assets/image2_proposal_extension_ai.png"
+          ],
+          "text": "他社物件の出稿機能・今後のAI活用への拡張性他社物件の出稿機能や、AIによる自動化など、将来的な拡張に柔軟に対応。"
+        }
+      ],
+      "text_blocks": [
+        {
+          "tag": "span",
+          "classes": [
+            "rail-chapter"
+          ],
+          "role": "body",
+          "text": "Chapter1"
+        },
+        {
+          "tag": "span",
+          "classes": [
+            "rail-copy"
+          ],
+          "role": "body",
+          "text": "Copyright @Field X inc.All rights reserved."
+        },
+        {
+          "tag": "span",
+          "classes": [
+            "rail-page"
+          ],
+          "role": "body",
+          "text": "4"
+        },
+        {
+          "tag": "h2",
+          "classes": [],
+          "role": "title",
+          "text": "今回のご提案内容"
+        },
+        {
+          "tag": "div",
+          "classes": [
+            "red-band"
+          ],
+          "role": "message",
+          "text": "基幹業務を効率化し、現場の負荷を下げ、今後の成長につながるシステム基盤を構築します。"
+        },
+        {
+          "tag": "h3",
+          "classes": [],
+          "role": "heading",
+          "text": "基本機能を一つの基盤に整理"
+        },
+        {
+          "tag": "p",
+          "classes": [],
+          "role": "body",
+          "text": "物件管理、入居者管理、契約書作成、反響取り込み、自社物件の出稿等、基幹管理に必要なデータを集約します。"
+        },
+        {
+          "tag": "h3",
+          "classes": [],
+          "role": "heading",
+          "text": "修繕対応・契約書作成業務の効率化"
+        },
+        {
+          "tag": "p",
+          "classes": [],
+          "role": "body",
+          "text": "退去修繕・契約業務等を含めたオペレーションを標準化し、業務内容を効率化します。"
+        },
+        {
+          "tag": "h3",
+          "classes": [],
+          "role": "heading",
+          "text": "現場利用しやすいUIとスマホ対応"
+        },
+        {
+          "tag": "p",
+          "classes": [],
+          "role": "body",
+          "text": "直感的な画面設計により操作しやすく、現場へのスムーズな導入が可能です。スマホ対応で外出先でも快適な利用が可能です。"
+        },
+        {
+          "tag": "h3",
+          "classes": [],
+          "role": "heading",
+          "text": "他社物件の出稿機能・今後のAI活用への拡張性"
+        },
+        {
+          "tag": "p",
+          "classes": [],
+          "role": "body",
+          "text": "他社物件の出稿機能や、AIによる自動化など、将来的な拡張に柔軟に対応。"
+        },
+        {
+          "tag": "strong",
+          "classes": [],
+          "role": "body",
+          "text": "基本的な機能に加え、現業務の効率化、現場での使いやすさを最重要視。今後のAI拡張まで見据えた業務基盤を整備します。"
+        }
+      ],
+      "shapes": [
+        {
+          "tag": "aside",
+          "classes": [
+            "side-rail",
+            "chapter-rail",
+            "deck-rail"
+          ]
+        },
+        {
+          "tag": "div",
+          "classes": [
+            "shape",
+            "shape-standard-corner"
+          ]
+        },
+        {
+          "tag": "div",
+          "classes": [
+            "shape",
+            "shape-standard-right"
+          ]
+        },
+        {
+          "tag": "div",
+          "classes": [
+            "shape",
+            "shape-standard-bottom-left"
+          ]
+        },
+        {
+          "tag": "div",
+          "classes": [
+            "red-mark"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "./assets/image2_proposal_core_system.png",
+          "resolved": "C:\\Users\\81809\\OneDrive\\デスクトップ\\事業\\資料作成\\out\\sanko_html\\rebuilt_slides\\assets\\image2_proposal_core_system.png",
+          "classes": [],
+          "alt": "",
+          "role": "image",
+          "exists": true
+        },
+        {
+          "src": "./assets/image2_proposal_repair_contract.png",
+          "resolved": "C:\\Users\\81809\\OneDrive\\デスクトップ\\事業\\資料作成\\out\\sanko_html\\rebuilt_slides\\assets\\image2_proposal_repair_contract.png",
+          "classes": [],
+          "alt": "",
+          "role": "image",
+          "exists": true
+        },
+        {
+          "src": "./assets/image2_proposal_mobile_ui.png",
+          "resolved": "C:\\Users\\81809\\OneDrive\\デスクトップ\\事業\\資料作成\\out\\sanko_html\\rebuilt_slides\\assets\\image2_proposal_mobile_ui.png",
+          "classes": [],
+          "alt": "",
+          "role": "image",
+          "exists": true
+        },
+        {
+          "src": "./assets/image2_proposal_extension_ai.png",
+          "resolved": "C:\\Users\\81809\\OneDrive\\デスクトップ\\事業\\資料作成\\out\\sanko_html\\rebuilt_slides\\assets\\image2_proposal_extension_ai.png",
+          "classes": [],
+          "alt": "",
+          "role": "image",
+          "exists": true
+        }
+      ],
+      "icons": [
+        {
+          "src": "./assets/image2_proposal_core_system.png",
+          "resolved": "C:\\Users\\81809\\OneDrive\\デスクトップ\\事業\\資料作成\\out\\sanko_html\\rebuilt_slides\\assets\\image2_proposal_core_system.png",
+          "classes": [],
+          "alt": "",
+          "role": "image",
+          "exists": true
+        },
+        {
+          "src": "./assets/image2_proposal_repair_contract.png",
+          "resolved": "C:\\Users\\81809\\OneDrive\\デスクトップ\\事業\\資料作成\\out\\sanko_html\\rebuilt_slides\\assets\\image2_proposal_repair_contract.png",
+          "classes": [],
+          "alt": "",
+          "role": "image",
+          "exists": true
+        },
+        {
+          "src": "./assets/image2_proposal_mobile_ui.png",
+          "resolved": "C:\\Users\\81809\\OneDrive\\デスクトップ\\事業\\資料作成\\out\\sanko_html\\rebuilt_slides\\assets\\image2_proposal_mobile_ui.png",
+          "classes": [],
+          "alt": "",
+          "role": "image",
+          "exists": true
+        },
+        {
+          "src": "./assets/image2_proposal_extension_ai.png",
+          "resolved": "C:\\Users\\81809\\OneDrive\\デスクトップ\\事業\\資料作成\\out\\sanko_html\\rebuilt_slides\\assets\\image2_proposal_extension_ai.png",
+          "classes": [],
+          "alt": "",
+          "role": "image",
+          "exists": true
+        }
+      ],
+      "layout_notes": {
+        "has_rail": true,
+        "is_divider": false,
+        "card_count": 4,
+        "image_count": 4,
+        "missing_image_count": 0
+      }
+    },
+    {
+      "slide_number": 5,
+      "source_id": "slide-06-divider-demo",
+      "source_file": "06_divider_demo.png",
+      "classes": [
+        "slide",
+        "divider",
+        "slide-06-divider-demo"
+      ],
+      "background_color": "#f80612",
+      "title": "デモ画面イメージ",
+      "headings": [
+        {
+          "level": "h2",
+          "classes": [],
+          "text": "デモ画面イメージ"
+        }
+      ],
+      "body": [],
+      "bullets": [],
+      "cards": [],
+      "text_blocks": [
+        {
+          "tag": "div",
+          "classes": [
+            "divider-no"
+          ],
+          "role": "number",
+          "text": "02"
+        },
+        {
+          "tag": "h2",
+          "classes": [],
+          "role": "title",
+          "text": "デモ画面イメージ"
+        }
+      ],
+      "shapes": [
+        {
+          "tag": "div",
+          "classes": [
+            "shape",
+            "divider-corner"
+          ]
+        },
+        {
+          "tag": "div",
+          "classes": [
+            "shape",
+            "divider-bottom"
+          ]
+        }
+      ],
+      "images": [],
+      "icons": [],
+      "layout_notes": {
+        "has_rail": false,
+        "is_divider": true,
+        "card_count": 0,
+        "image_count": 0,
+        "missing_image_count": 0
+      }
+    },
+    {
+      "slide_number": 6,
+      "source_id": "slide-07-demo-1-blank",
+      "source_file": "07_demo_1_blank.png",
+      "classes": [
+        "slide",
+        "with-rail",
+        "slide-07-demo-1-blank"
+      ],
+      "background_color": "#f7f7f6",
+      "title": "物件・入居者管理画面",
+      "headings": [
+        {
+          "level": "h2",
+          "classes": [],
+          "text": "物件・入居者管理画面"
+        },
+        {
+          "level": "h3",
+          "classes": [],
+          "text": "物件情報の確認"
+        },
+        {
+          "level": "h3",
+          "classes": [],
+          "text": "入居者情報の確認"
+        },
+        {
+          "level": "h3",
+          "classes": [],
+          "text": "修繕・対応履歴の確認"
+        }
+      ],
+      "body": [
+        "物件・入居者・修繕状況をひとつの画面で確認できます。",
+        "物件情報・空室状況を確認し、内見可否状況も把握できます。",
+        "入居者一覧や入金状況に加え、契約書・請求情報も確認できます。",
+        "修繕アラート等で対応漏れを防ぎ、過去情報を参考にした今後の対応案も提示。",
+        "※ 画面イメージは開発中のものです。実際の仕様とは異なる場合があります。"
+      ],
+      "bullets": [],
+      "cards": [
+        {
+          "classes": [
+            "card",
+            "demo-callout"
+          ],
+          "heading": "物件情報の確認",
+          "paragraphs": [
+            "物件情報・空室状況を確認し、内見可否状況も把握できます。"
+          ],
+          "bullets": [],
+          "images": [
+            "./assets/image2_demo_property.png"
+          ],
+          "text": "物件情報の確認物件情報・空室状況を確認し、内見可否状況も把握できます。"
+        },
+        {
+          "classes": [
+            "card",
+            "demo-callout"
+          ],
+          "heading": "入居者情報の確認",
+          "paragraphs": [
+            "入居者一覧や入金状況に加え、契約書・請求情報も確認できます。"
+          ],
+          "bullets": [],
+          "images": [
+            "./assets/image2_demo_resident.png"
+          ],
+          "text": "入居者情報の確認入居者一覧や入金状況に加え、契約書・請求情報も確認できます。"
+        },
+        {
+          "classes": [
+            "card",
+            "demo-callout"
+          ],
+          "heading": "修繕・対応履歴の確認",
+          "paragraphs": [
+            "修繕アラート等で対応漏れを防ぎ、過去情報を参考にした今後の対応案も提示。"
+          ],
+          "bullets": [],
+          "images": [
+            "./assets/image2_demo_maintenance.png"
+          ],
+          "text": "修繕・対応履歴の確認修繕アラート等で対応漏れを防ぎ、過去情報を参考にした今後の対応案も提示。"
+        }
+      ],
+      "text_blocks": [
+        {
+          "tag": "span",
+          "classes": [
+            "rail-chapter"
+          ],
+          "role": "body",
+          "text": "Chapter2"
+        },
+        {
+          "tag": "span",
+          "classes": [
+            "rail-copy"
+          ],
+          "role": "body",
+          "text": "Copyright @Field X inc.All rights reserved."
+        },
+        {
+          "tag": "span",
+          "classes": [
+            "rail-page"
+          ],
+          "role": "body",
+          "text": "6"
+        },
+        {
+          "tag": "h2",
+          "classes": [],
+          "role": "title",
+          "text": "物件・入居者管理画面"
+        },
+        {
+          "tag": "p",
+          "classes": [
+            "lead",
+            "small"
+          ],
+          "role": "lead",
+          "text": "物件・入居者・修繕状況をひとつの画面で確認できます。"
+        },
+        {
+          "tag": "h3",
+          "classes": [],
+          "role": "heading",
+          "text": "物件情報の確認"
+        },
+        {
+          "tag": "p",
+          "classes": [],
+          "role": "body",
+          "text": "物件情報・空室状況を確認し、内見可否状況も把握できます。"
+        },
+        {
+          "tag": "h3",
+          "classes": [],
+          "role": "heading",
+          "text": "入居者情報の確認"
+        },
+        {
+          "tag": "p",
+          "classes": [],
+          "role": "body",
+          "text": "入居者一覧や入金状況に加え、契約書・請求情報も確認できます。"
+        },
+        {
+          "tag": "h3",
+          "classes": [],
+          "role": "heading",
+          "text": "修繕・対応履歴の確認"
+        },
+        {
+          "tag": "p",
+          "classes": [],
+          "role": "body",
+          "text": "修繕アラート等で対応漏れを防ぎ、過去情報を参考にした今後の対応案も提示。"
+        },
+        {
+          "tag": "p",
+          "classes": [
+            "note"
+          ],
+          "role": "body",
+          "text": "※ 画面イメージは開発中のものです。実際の仕様とは異なる場合があります。"
+        }
+      ],
+      "shapes": [
+        {
+          "tag": "aside",
+          "classes": [
+            "side-rail",
+            "chapter-rail",
+            "deck-rail"
+          ]
+        },
+        {
+          "tag": "div",
+          "classes": [
+            "red-mark"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "./assets/image2_demo_property.png",
+          "resolved": "C:\\Users\\81809\\OneDrive\\デスクトップ\\事業\\資料作成\\out\\sanko_html\\rebuilt_slides\\assets\\image2_demo_property.png",
+          "classes": [],
+          "alt": "",
+          "role": "image",
+          "exists": true
+        },
+        {
+          "src": "./assets/image2_demo_resident.png",
+          "resolved": "C:\\Users\\81809\\OneDrive\\デスクトップ\\事業\\資料作成\\out\\sanko_html\\rebuilt_slides\\assets\\image2_demo_resident.png",
+          "classes": [],
+          "alt": "",
+          "role": "image",
+          "exists": true
+        },
+        {
+          "src": "./assets/image2_demo_maintenance.png",
+          "resolved": "C:\\Users\\81809\\OneDrive\\デスクトップ\\事業\\資料作成\\out\\sanko_html\\rebuilt_slides\\assets\\image2_demo_maintenance.png",
+          "classes": [],
+          "alt": "",
+          "role": "image",
+          "exists": true
+        },
+        {
+          "src": "./assets/demo_screenshots/demo_1_main.png",
+          "resolved": "C:\\Users\\81809\\OneDrive\\デスクトップ\\事業\\資料作成\\out\\sanko_html\\rebuilt_slides\\assets\\demo_screenshots\\demo_1_main.png",
+          "classes": [
+            "shot-frame",
+            "large-shot",
+            "screenshot-slot"
+          ],
+          "alt": "スクリーンショット差し込み枠",
+          "role": "css-background-image",
+          "exists": false
+        }
+      ],
+      "icons": [
+        {
+          "src": "./assets/image2_demo_property.png",
+          "resolved": "C:\\Users\\81809\\OneDrive\\デスクトップ\\事業\\資料作成\\out\\sanko_html\\rebuilt_slides\\assets\\image2_demo_property.png",
+          "classes": [],
+          "alt": "",
+          "role": "image",
+          "exists": true
+        },
+        {
+          "src": "./assets/image2_demo_resident.png",
+          "resolved": "C:\\Users\\81809\\OneDrive\\デスクトップ\\事業\\資料作成\\out\\sanko_html\\rebuilt_slides\\assets\\image2_demo_resident.png",
+          "classes": [],
+          "alt": "",
+          "role": "image",
+          "exists": true
+        },
+        {
+          "src": "./assets/image2_demo_maintenance.png",
+          "resolved": "C:\\Users\\81809\\OneDrive\\デスクトップ\\事業\\資料作成\\out\\sanko_html\\rebuilt_slides\\assets\\image2_demo_maintenance.png",
+          "classes": [],
+          "alt": "",
+          "role": "image",
+          "exists": true
+        }
+      ],
+      "layout_notes": {
+        "has_rail": true,
+        "is_divider": false,
+        "card_count": 3,
+        "image_count": 4,
+        "missing_image_count": 1
+      }
+    },
+    {
+      "slide_number": 7,
+      "source_id": "slide-08-demo-2-blank",
+      "source_file": "08_demo_2_blank.png",
+      "classes": [
+        "slide",
+        "with-rail",
+        "slide-08-demo-2-blank"
+      ],
+      "background_color": "#f7f7f6",
+      "title": "スマートフォン対応・各種契約書作成機能",
+      "headings": [
+        {
+          "level": "h2",
+          "classes": [],
+          "text": "スマートフォン対応・各種契約書作成機能"
+        },
+        {
+          "level": "h3",
+          "classes": [],
+          "text": "契約書等作成機能"
+        },
+        {
+          "level": "h3",
+          "classes": [
+            "invoice-title"
+          ],
+          "text": "各種インボイス書類・請求・明細の管理・自動作成"
+        },
+        {
+          "level": "h3",
+          "classes": [],
+          "text": "スマホ対応"
+        }
+      ],
+      "body": [
+        "スマホ対応機能を実装。日常業務の負荷を軽減します。",
+        "契約書・重説をシステム上で作成・出力。テンプレート管理で正確に対応。",
+        "請求書・明細や各種インボイス書類を一元管理し、自動作成できます。",
+        "スマホで請求内容を確認し、帳票の閲覧も可能。外出先でも情報の閲覧が可能です。"
+      ],
+      "bullets": [],
+      "cards": [],
+      "text_blocks": [
+        {
+          "tag": "span",
+          "classes": [
+            "rail-chapter"
+          ],
+          "role": "body",
+          "text": "Chapter2"
+        },
+        {
+          "tag": "span",
+          "classes": [
+            "rail-copy"
+          ],
+          "role": "body",
+          "text": "Copyright @Field X inc.All rights reserved."
+        },
+        {
+          "tag": "span",
+          "classes": [
+            "rail-page"
+          ],
+          "role": "body",
+          "text": "7"
+        },
+        {
+          "tag": "h2",
+          "classes": [],
+          "role": "title",
+          "text": "スマートフォン対応・各種契約書作成機能"
+        },
+        {
+          "tag": "p",
+          "classes": [
+            "lead",
+            "small"
+          ],
+          "role": "lead",
+          "text": "スマホ対応機能を実装。日常業務の負荷を軽減します。"
+        },
+        {
+          "tag": "h3",
+          "classes": [],
+          "role": "heading",
+          "text": "契約書等作成機能"
+        },
+        {
+          "tag": "p",
+          "classes": [],
+          "role": "body",
+          "text": "契約書・重説をシステム上で作成・出力。テンプレート管理で正確に対応。"
+        },
+        {
+          "tag": "h3",
+          "classes": [
+            "invoice-title"
+          ],
+          "role": "heading",
+          "text": "各種インボイス書類・請求・明細の管理・自動作成"
+        },
+        {
+          "tag": "p",
+          "classes": [],
+          "role": "body",
+          "text": "請求書・明細や各種インボイス書類を一元管理し、自動作成できます。"
+        },
+        {
+          "tag": "h3",
+          "classes": [],
+          "role": "heading",
+          "text": "スマホ対応"
+        },
+        {
+          "tag": "p",
+          "classes": [],
+          "role": "body",
+          "text": "スマホで請求内容を確認し、帳票の閲覧も可能。外出先でも情報の閲覧が可能です。"
+        }
+      ],
+      "shapes": [
+        {
+          "tag": "aside",
+          "classes": [
+            "side-rail",
+            "chapter-rail",
+            "deck-rail"
+          ]
+        },
+        {
+          "tag": "div",
+          "classes": [
+            "red-mark"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "./assets/image2_demo_contract.png",
+          "resolved": "C:\\Users\\81809\\OneDrive\\デスクトップ\\事業\\資料作成\\out\\sanko_html\\rebuilt_slides\\assets\\image2_demo_contract.png",
+          "classes": [],
+          "alt": "",
+          "role": "image",
+          "exists": true
+        },
+        {
+          "src": "./assets/image2_demo_invoice.png",
+          "resolved": "C:\\Users\\81809\\OneDrive\\デスクトップ\\事業\\資料作成\\out\\sanko_html\\rebuilt_slides\\assets\\image2_demo_invoice.png",
+          "classes": [],
+          "alt": "",
+          "role": "image",
+          "exists": true
+        },
+        {
+          "src": "./assets/image2_demo_phone.png",
+          "resolved": "C:\\Users\\81809\\OneDrive\\デスクトップ\\事業\\資料作成\\out\\sanko_html\\rebuilt_slides\\assets\\image2_demo_phone.png",
+          "classes": [],
+          "alt": "",
+          "role": "image",
+          "exists": true
+        },
+        {
+          "src": "./assets/demo_screenshots/demo_2_pc.png",
+          "resolved": "C:\\Users\\81809\\OneDrive\\デスクトップ\\事業\\資料作成\\out\\sanko_html\\rebuilt_slides\\assets\\demo_screenshots\\demo_2_pc.png",
+          "classes": [
+            "shot-frame",
+            "pc-shot",
+            "screenshot-slot"
+          ],
+          "alt": "PCスクリーンショット差し込み枠",
+          "role": "css-background-image",
+          "exists": false
+        },
+        {
+          "src": "./assets/demo_screenshots/demo_2_phone.png",
+          "resolved": "C:\\Users\\81809\\OneDrive\\デスクトップ\\事業\\資料作成\\out\\sanko_html\\rebuilt_slides\\assets\\demo_screenshots\\demo_2_phone.png",
+          "classes": [
+            "phone-inner",
+            "screenshot-slot"
+          ],
+          "alt": "",
+          "role": "css-background-image",
+          "exists": false
+        }
+      ],
+      "icons": [
+        {
+          "src": "./assets/image2_demo_contract.png",
+          "resolved": "C:\\Users\\81809\\OneDrive\\デスクトップ\\事業\\資料作成\\out\\sanko_html\\rebuilt_slides\\assets\\image2_demo_contract.png",
+          "classes": [],
+          "alt": "",
+          "role": "image",
+          "exists": true
+        },
+        {
+          "src": "./assets/image2_demo_invoice.png",
+          "resolved": "C:\\Users\\81809\\OneDrive\\デスクトップ\\事業\\資料作成\\out\\sanko_html\\rebuilt_slides\\assets\\image2_demo_invoice.png",
+          "classes": [],
+          "alt": "",
+          "role": "image",
+          "exists": true
+        },
+        {
+          "src": "./assets/image2_demo_phone.png",
+          "resolved": "C:\\Users\\81809\\OneDrive\\デスクトップ\\事業\\資料作成\\out\\sanko_html\\rebuilt_slides\\assets\\image2_demo_phone.png",
+          "classes": [],
+          "alt": "",
+          "role": "image",
+          "exists": true
+        }
+      ],
+      "layout_notes": {
+        "has_rail": true,
+        "is_divider": false,
+        "card_count": 0,
+        "image_count": 5,
+        "missing_image_count": 2
+      }
+    },
+    {
+      "slide_number": 8,
+      "source_id": "slide-09-demo-3-blank",
+      "source_file": "09_demo_3_blank.png",
+      "classes": [
+        "slide",
+        "with-rail",
+        "slide-09-demo-3-blank"
+      ],
+      "background_color": "#f7f7f6",
+      "title": "物件出稿・反響取り込み・AIによる自動化、省力化",
+      "headings": [
+        {
+          "level": "h2",
+          "classes": [],
+          "text": "物件出稿・反響取り込み・AIによる自動化、省力化"
+        },
+        {
+          "level": "h3",
+          "classes": [],
+          "text": "自社物件の出稿機能"
+        },
+        {
+          "level": "h3",
+          "classes": [],
+          "text": "他社物件の出稿機能"
+        },
+        {
+          "level": "h3",
+          "classes": [],
+          "text": "反響取り込み、メール返信効率化"
+        },
+        {
+          "level": "h3",
+          "classes": [
+            "shot-title-nowrap"
+          ],
+          "text": "AIによる返信文作成、日程調整、各種データ検索"
+        }
+      ],
+      "body": [
+        "自社物件に加え他社物件のHP、各ポータルへの出稿から反響対応、今後のAI活用による業務効率化も。"
+      ],
+      "bullets": [],
+      "cards": [],
+      "text_blocks": [
+        {
+          "tag": "span",
+          "classes": [
+            "rail-chapter"
+          ],
+          "role": "body",
+          "text": "Chapter2"
+        },
+        {
+          "tag": "span",
+          "classes": [
+            "rail-copy"
+          ],
+          "role": "body",
+          "text": "Copyright @Field X inc.All rights reserved."
+        },
+        {
+          "tag": "span",
+          "classes": [
+            "rail-page"
+          ],
+          "role": "body",
+          "text": "8"
+        },
+        {
+          "tag": "h2",
+          "classes": [],
+          "role": "title",
+          "text": "物件出稿・反響取り込み・AIによる自動化、省力化"
+        },
+        {
+          "tag": "p",
+          "classes": [
+            "lead",
+            "small"
+          ],
+          "role": "lead",
+          "text": "自社物件に加え他社物件のHP、各ポータルへの出稿から反響対応、今後のAI活用による業務効率化も。"
+        },
+        {
+          "tag": "h3",
+          "classes": [],
+          "role": "heading",
+          "text": "自社物件の出稿機能"
+        },
+        {
+          "tag": "h3",
+          "classes": [],
+          "role": "heading",
+          "text": "他社物件の出稿機能"
+        },
+        {
+          "tag": "h3",
+          "classes": [],
+          "role": "heading",
+          "text": "反響取り込み、メール返信効率化"
+        },
+        {
+          "tag": "h3",
+          "classes": [
+            "shot-title-nowrap"
+          ],
+          "role": "heading",
+          "text": "AIによる返信文作成、日程調整、各種データ検索"
+        }
+      ],
+      "shapes": [
+        {
+          "tag": "aside",
+          "classes": [
+            "side-rail",
+            "chapter-rail",
+            "deck-rail"
+          ]
+        },
+        {
+          "tag": "div",
+          "classes": [
+            "red-mark"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "./assets/demo_screenshots/demo_3_own_listing.png",
+          "resolved": "C:\\Users\\81809\\OneDrive\\デスクトップ\\事業\\資料作成\\out\\sanko_html\\rebuilt_slides\\assets\\demo_screenshots\\demo_3_own_listing.png",
+          "classes": [
+            "shot-frame",
+            "screenshot-slot"
+          ],
+          "alt": "",
+          "role": "css-background-image",
+          "exists": false
+        },
+        {
+          "src": "./assets/demo_screenshots/demo_3_partner_listing.png",
+          "resolved": "C:\\Users\\81809\\OneDrive\\デスクトップ\\事業\\資料作成\\out\\sanko_html\\rebuilt_slides\\assets\\demo_screenshots\\demo_3_partner_listing.png",
+          "classes": [
+            "shot-frame",
+            "screenshot-slot"
+          ],
+          "alt": "",
+          "role": "css-background-image",
+          "exists": false
+        },
+        {
+          "src": "./assets/demo_screenshots/demo_3_response_email.png",
+          "resolved": "C:\\Users\\81809\\OneDrive\\デスクトップ\\事業\\資料作成\\out\\sanko_html\\rebuilt_slides\\assets\\demo_screenshots\\demo_3_response_email.png",
+          "classes": [
+            "shot-frame",
+            "screenshot-slot"
+          ],
+          "alt": "",
+          "role": "css-background-image",
+          "exists": false
+        },
+        {
+          "src": "./assets/demo_screenshots/demo_3_ai_assist.png",
+          "resolved": "C:\\Users\\81809\\OneDrive\\デスクトップ\\事業\\資料作成\\out\\sanko_html\\rebuilt_slides\\assets\\demo_screenshots\\demo_3_ai_assist.png",
+          "classes": [
+            "shot-frame",
+            "screenshot-slot"
+          ],
+          "alt": "",
+          "role": "css-background-image",
+          "exists": false
+        }
+      ],
+      "icons": [],
+      "layout_notes": {
+        "has_rail": true,
+        "is_divider": false,
+        "card_count": 0,
+        "image_count": 4,
+        "missing_image_count": 4
+      }
+    },
+    {
+      "slide_number": 9,
+      "source_id": "slide-10-divider-future",
+      "source_file": "10_divider_future.png",
+      "classes": [
+        "slide",
+        "divider",
+        "slide-10-divider-future"
+      ],
+      "background_color": "#f80612",
+      "title": "将来的な展望と今後の進め方",
+      "headings": [
+        {
+          "level": "h2",
+          "classes": [],
+          "text": "将来的な展望と今後の進め方"
+        }
+      ],
+      "body": [],
+      "bullets": [],
+      "cards": [],
+      "text_blocks": [
+        {
+          "tag": "div",
+          "classes": [
+            "divider-no"
+          ],
+          "role": "number",
+          "text": "03"
+        },
+        {
+          "tag": "h2",
+          "classes": [],
+          "role": "title",
+          "text": "将来的な展望と今後の進め方"
+        }
+      ],
+      "shapes": [],
+      "images": [],
+      "icons": [],
+      "layout_notes": {
+        "has_rail": false,
+        "is_divider": true,
+        "card_count": 0,
+        "image_count": 0,
+        "missing_image_count": 0
+      }
+    },
+    {
+      "slide_number": 10,
+      "source_id": "slide-11-future-expansion",
+      "source_file": "11_future_expansion.png",
+      "classes": [
+        "slide",
+        "with-rail",
+        "slide-11-future-expansion"
+      ],
+      "background_color": "#f7f7f6",
+      "title": "弊社による今後のAI活用イメージ",
+      "headings": [
+        {
+          "level": "h2",
+          "classes": [],
+          "text": "弊社による今後のAI活用イメージ"
+        },
+        {
+          "level": "h3",
+          "classes": [],
+          "text": "AIによる入居者問い合わせ対応の自動化へ"
+        },
+        {
+          "level": "h3",
+          "classes": [],
+          "text": "社内データの横断検索"
+        },
+        {
+          "level": "h3",
+          "classes": [],
+          "text": "営業支援への展開"
+        },
+        {
+          "level": "h3",
+          "classes": [],
+          "text": "AIによる書類活用・自動化"
+        }
+      ],
+      "body": [
+        "反響対応の自動化・社内データ検索・営業支援・書類自動化などの活用が見据えられます。",
+        "入居者からの電話やチャットによる問い合わせ対応を自動化します。",
+        "物件・顧客・契約・対応履歴を横断検索し、必要情報へすばやくアクセス。資料等の自動作成。",
+        "AIエージェントがオーナー様訪問前の必要情報を整理。営業準備時間を削減し、修繕などオーナー様のご意向に寄り添った提案を素早く行えます。",
+        "契約書・請求書等をデータ化し、検索・要約・自動作成に活用。"
+      ],
+      "bullets": [],
+      "cards": [
+        {
+          "classes": [
+            "card",
+            "future-card",
+            "future-a"
+          ],
+          "heading": "AIによる入居者問い合わせ対応の自動化へ",
+          "paragraphs": [
+            "入居者からの電話やチャットによる問い合わせ対応を自動化します。"
+          ],
+          "bullets": [],
+          "images": [
+            "./assets/image2_future_ai_reply.png"
+          ],
+          "text": "AIによる入居者問い合わせ対応の自動化へ入居者からの電話やチャットによる問い合わせ対応を自動化します。"
+        },
+        {
+          "classes": [
+            "card",
+            "future-card",
+            "future-b"
+          ],
+          "heading": "社内データの横断検索",
+          "paragraphs": [
+            "物件・顧客・契約・対応履歴を横断検索し、必要情報へすばやくアクセス。資料等の自動作成。"
+          ],
+          "bullets": [],
+          "images": [
+            "./assets/image2_future_search.png"
+          ],
+          "text": "社内データの横断検索物件・顧客・契約・対応履歴を横断検索し、必要情報へすばやくアクセス。資料等の自動作成。"
+        },
+        {
+          "classes": [
+            "card",
+            "future-card",
+            "future-c"
+          ],
+          "heading": "営業支援への展開",
+          "paragraphs": [
+            "AIエージェントがオーナー様訪問前の必要情報を整理。営業準備時間を削減し、修繕などオーナー様のご意向に寄り添った提案を素早く行えます。"
+          ],
+          "bullets": [],
+          "images": [
+            "./assets/image2_future_sales.png"
+          ],
+          "text": "営業支援への展開AIエージェントがオーナー様訪問前の必要情報を整理。営業準備時間を削減し、修繕などオーナー様のご意向に寄り添った提案を素早く行えます。"
+        },
+        {
+          "classes": [
+            "card",
+            "future-card",
+            "future-d"
+          ],
+          "heading": "AIによる書類活用・自動化",
+          "paragraphs": [
+            "契約書・請求書等をデータ化し、検索・要約・自動作成に活用。"
+          ],
+          "bullets": [],
+          "images": [
+            "./assets/image2_future_documents.png"
+          ],
+          "text": "AIによる書類活用・自動化契約書・請求書等をデータ化し、検索・要約・自動作成に活用。"
+        }
+      ],
+      "text_blocks": [
+        {
+          "tag": "span",
+          "classes": [
+            "rail-chapter"
+          ],
+          "role": "body",
+          "text": "Chapter3"
+        },
+        {
+          "tag": "span",
+          "classes": [
+            "rail-copy"
+          ],
+          "role": "body",
+          "text": "Copyright @Field X inc.All rights reserved."
+        },
+        {
+          "tag": "span",
+          "classes": [
+            "rail-page"
+          ],
+          "role": "body",
+          "text": "10"
+        },
+        {
+          "tag": "h2",
+          "classes": [],
+          "role": "title",
+          "text": "弊社による今後のAI活用イメージ"
+        },
+        {
+          "tag": "p",
+          "classes": [
+            "lead"
+          ],
+          "role": "lead",
+          "text": "反響対応の自動化・社内データ検索・営業支援・書類自動化などの活用が見据えられます。"
+        },
+        {
+          "tag": "strong",
+          "classes": [],
+          "role": "body",
+          "text": "基幹データ"
+        },
+        {
+          "tag": "h3",
+          "classes": [],
+          "role": "heading",
+          "text": "AIによる入居者問い合わせ対応の自動化へ"
+        },
+        {
+          "tag": "p",
+          "classes": [],
+          "role": "body",
+          "text": "入居者からの電話やチャットによる問い合わせ対応を自動化します。"
+        },
+        {
+          "tag": "h3",
+          "classes": [],
+          "role": "heading",
+          "text": "社内データの横断検索"
+        },
+        {
+          "tag": "p",
+          "classes": [],
+          "role": "body",
+          "text": "物件・顧客・契約・対応履歴を横断検索し、必要情報へすばやくアクセス。資料等の自動作成。"
+        },
+        {
+          "tag": "h3",
+          "classes": [],
+          "role": "heading",
+          "text": "営業支援への展開"
+        },
+        {
+          "tag": "p",
+          "classes": [],
+          "role": "body",
+          "text": "AIエージェントがオーナー様訪問前の必要情報を整理。営業準備時間を削減し、修繕などオーナー様のご意向に寄り添った提案を素早く行えます。"
+        },
+        {
+          "tag": "h3",
+          "classes": [],
+          "role": "heading",
+          "text": "AIによる書類活用・自動化"
+        },
+        {
+          "tag": "p",
+          "classes": [],
+          "role": "body",
+          "text": "契約書・請求書等をデータ化し、検索・要約・自動作成に活用。"
+        },
+        {
+          "tag": "strong",
+          "classes": [],
+          "role": "body",
+          "text": "基幹データを中心としたAI活用で、売り上げ・顧客満足度・業務全体の生産性向上を支援。オーナー様の資産最大化に向けた最適化と、新たな価値創造を実現します。"
+        }
+      ],
+      "shapes": [
+        {
+          "tag": "aside",
+          "classes": [
+            "side-rail",
+            "chapter-rail",
+            "deck-rail"
+          ]
+        },
+        {
+          "tag": "div",
+          "classes": [
+            "red-mark"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "./assets/image2_work/generated/17.png",
+          "resolved": "C:\\Users\\81809\\OneDrive\\デスクトップ\\事業\\資料作成\\out\\sanko_html\\rebuilt_slides\\assets\\image2_work\\generated\\17.png",
+          "classes": [
+            "hub-image"
+          ],
+          "alt": "",
+          "role": "image",
+          "exists": true
+        },
+        {
+          "src": "./assets/image2_future_ai_reply.png",
+          "resolved": "C:\\Users\\81809\\OneDrive\\デスクトップ\\事業\\資料作成\\out\\sanko_html\\rebuilt_slides\\assets\\image2_future_ai_reply.png",
+          "classes": [],
+          "alt": "",
+          "role": "image",
+          "exists": true
+        },
+        {
+          "src": "./assets/image2_future_search.png",
+          "resolved": "C:\\Users\\81809\\OneDrive\\デスクトップ\\事業\\資料作成\\out\\sanko_html\\rebuilt_slides\\assets\\image2_future_search.png",
+          "classes": [],
+          "alt": "",
+          "role": "image",
+          "exists": true
+        },
+        {
+          "src": "./assets/image2_future_sales.png",
+          "resolved": "C:\\Users\\81809\\OneDrive\\デスクトップ\\事業\\資料作成\\out\\sanko_html\\rebuilt_slides\\assets\\image2_future_sales.png",
+          "classes": [],
+          "alt": "",
+          "role": "image",
+          "exists": true
+        },
+        {
+          "src": "./assets/image2_future_documents.png",
+          "resolved": "C:\\Users\\81809\\OneDrive\\デスクトップ\\事業\\資料作成\\out\\sanko_html\\rebuilt_slides\\assets\\image2_future_documents.png",
+          "classes": [],
+          "alt": "",
+          "role": "image",
+          "exists": true
+        }
+      ],
+      "icons": [
+        {
+          "src": "./assets/image2_work/generated/17.png",
+          "resolved": "C:\\Users\\81809\\OneDrive\\デスクトップ\\事業\\資料作成\\out\\sanko_html\\rebuilt_slides\\assets\\image2_work\\generated\\17.png",
+          "classes": [
+            "hub-image"
+          ],
+          "alt": "",
+          "role": "image",
+          "exists": true
+        },
+        {
+          "src": "./assets/image2_future_ai_reply.png",
+          "resolved": "C:\\Users\\81809\\OneDrive\\デスクトップ\\事業\\資料作成\\out\\sanko_html\\rebuilt_slides\\assets\\image2_future_ai_reply.png",
+          "classes": [],
+          "alt": "",
+          "role": "image",
+          "exists": true
+        },
+        {
+          "src": "./assets/image2_future_search.png",
+          "resolved": "C:\\Users\\81809\\OneDrive\\デスクトップ\\事業\\資料作成\\out\\sanko_html\\rebuilt_slides\\assets\\image2_future_search.png",
+          "classes": [],
+          "alt": "",
+          "role": "image",
+          "exists": true
+        },
+        {
+          "src": "./assets/image2_future_sales.png",
+          "resolved": "C:\\Users\\81809\\OneDrive\\デスクトップ\\事業\\資料作成\\out\\sanko_html\\rebuilt_slides\\assets\\image2_future_sales.png",
+          "classes": [],
+          "alt": "",
+          "role": "image",
+          "exists": true
+        },
+        {
+          "src": "./assets/image2_future_documents.png",
+          "resolved": "C:\\Users\\81809\\OneDrive\\デスクトップ\\事業\\資料作成\\out\\sanko_html\\rebuilt_slides\\assets\\image2_future_documents.png",
+          "classes": [],
+          "alt": "",
+          "role": "image",
+          "exists": true
+        }
+      ],
+      "layout_notes": {
+        "has_rail": true,
+        "is_divider": false,
+        "card_count": 4,
+        "image_count": 5,
+        "missing_image_count": 0
+      }
+    },
+    {
+      "slide_number": 11,
+      "source_id": "slide-12-roadmap-reference",
+      "source_file": "12_roadmap_reference.png",
+      "classes": [
+        "slide",
+        "with-rail",
+        "slide-12-roadmap-reference"
+      ],
+      "background_color": "#f7f7f6",
+      "title": "今後の進め方",
+      "headings": [
+        {
+          "level": "h2",
+          "classes": [],
+          "text": "今後の進め方"
+        }
+      ],
+      "body": [
+        "Chapter3",
+        "繁忙期であると推察されますので、現場の混乱をできる限り避けながら、下記の流れで円滑に進行します。",
+        "NDA・個別契約など必要な契約手続きを進行。貴社フォーマットにも合わせて対応します。",
+        "今後の詳細なプランニングをご提案し、貴社サイドとすり合わせます。",
+        "データマイグレーションを実行する場合、移行先を先に準備することが最重要です。以後発生するデータを格納する箱を準備いたします。",
+        "移行準備と並行して開発。貴社現場サイドの方々の意見を最大限反映、調整しながら進めます。",
+        "小規模でのテスト運用後、本格的に現場導入をいたします。必要に応じて現場でのレクチャーなどを実施いたします。",
+        "定期的なご報告会を設け、細かいアップデートを繰り返しながら現場で定着するまで伴走支援いたします。"
+      ],
+      "bullets": [],
+      "cards": [],
+      "text_blocks": [
+        {
+          "tag": "span",
+          "classes": [
+            "rail-chapter"
+          ],
+          "role": "body",
+          "text": "Chapter3"
+        },
+        {
+          "tag": "span",
+          "classes": [
+            "rail-copy"
+          ],
+          "role": "body",
+          "text": "Copyright @Field X inc.All rights reserved."
+        },
+        {
+          "tag": "span",
+          "classes": [
+            "rail-page"
+          ],
+          "role": "body",
+          "text": "11"
+        },
+        {
+          "tag": "p",
+          "classes": [
+            "chapter-label"
+          ],
+          "role": "body",
+          "text": "Chapter3"
+        },
+        {
+          "tag": "h2",
+          "classes": [],
+          "role": "title",
+          "text": "今後の進め方"
+        },
+        {
+          "tag": "p",
+          "classes": [
+            "lead"
+          ],
+          "role": "lead",
+          "text": "繁忙期であると推察されますので、現場の混乱をできる限り避けながら、下記の流れで円滑に進行します。"
+        },
+        {
+          "tag": "strong",
+          "classes": [],
+          "role": "body",
+          "text": "ご契約"
+        },
+        {
+          "tag": "strong",
+          "classes": [],
+          "role": "body",
+          "text": "進め方の確認"
+        },
+        {
+          "tag": "strong",
+          "classes": [],
+          "role": "body",
+          "text": "移行先基盤の準備"
+        },
+        {
+          "tag": "strong",
+          "classes": [],
+          "role": "body",
+          "text": "システム開発"
+        },
+        {
+          "tag": "strong",
+          "classes": [],
+          "role": "body",
+          "text": "現場導入"
+        },
+        {
+          "tag": "strong",
+          "classes": [],
+          "role": "body",
+          "text": "改善"
+        },
+        {
+          "tag": "p",
+          "classes": [],
+          "role": "body",
+          "text": "NDA・個別契約など必要な契約手続きを進行。貴社フォーマットにも合わせて対応します。"
+        },
+        {
+          "tag": "p",
+          "classes": [],
+          "role": "body",
+          "text": "今後の詳細なプランニングをご提案し、貴社サイドとすり合わせます。"
+        },
+        {
+          "tag": "p",
+          "classes": [],
+          "role": "body",
+          "text": "データマイグレーションを実行する場合、移行先を先に準備することが最重要です。以後発生するデータを格納する箱を準備いたします。"
+        },
+        {
+          "tag": "p",
+          "classes": [],
+          "role": "body",
+          "text": "移行準備と並行して開発。貴社現場サイドの方々の意見を最大限反映、調整しながら進めます。"
+        },
+        {
+          "tag": "p",
+          "classes": [],
+          "role": "body",
+          "text": "小規模でのテスト運用後、本格的に現場導入をいたします。必要に応じて現場でのレクチャーなどを実施いたします。"
+        },
+        {
+          "tag": "p",
+          "classes": [],
+          "role": "body",
+          "text": "定期的なご報告会を設け、細かいアップデートを繰り返しながら現場で定着するまで伴走支援いたします。"
+        }
+      ],
+      "shapes": [
+        {
+          "tag": "aside",
+          "classes": [
+            "side-rail",
+            "chapter-rail",
+            "deck-rail",
+            "roadmap-rail"
+          ]
+        }
+      ],
+      "images": [],
+      "icons": [],
+      "layout_notes": {
+        "has_rail": true,
+        "is_divider": false,
+        "card_count": 0,
+        "image_count": 0,
+        "missing_image_count": 0
+      }
+    },
+    {
+      "slide_number": 12,
+      "source_id": "slide-13-subsidy",
+      "source_file": "13_subsidy.png",
+      "classes": [
+        "slide",
+        "with-rail",
+        "slide-13-subsidy"
+      ],
+      "background_color": "#f7f7f6",
+      "title": "弊社AI導入による補助金活用支援について",
+      "headings": [
+        {
+          "level": "h2",
+          "classes": [],
+          "text": "弊社AI導入による補助金活用支援について"
+        },
+        {
+          "level": "h3",
+          "classes": [],
+          "text": "中小企業省力化投資補助金\n（一般型）の活用可能性"
+        },
+        {
+          "level": "h3",
+          "classes": [],
+          "text": "申請可否の確認や\n資料整理のサポート"
+        }
+      ],
+      "body": [
+        "Chapter3",
+        "本システム導入にあたり、下記の補助金の活用が可能です。",
+        "弊社AIを用いたシステムの導入は、業務効率化や生産性向上に資する取り組みとして、本補助金の対象となる可能性があります。",
+        "補助金の申請に必要な要件確認や、申請書類の整理・作成について、\n当社にてサポートいたします。ご不明点はお気軽にご相談ください。",
+        "補助金の採択を保証するものではありません。\n最新の制度内容や詳細については、公式サイト等でご確認ください。"
+      ],
+      "bullets": [
+        "対象要件の確認",
+        "必要資料の整理・作成支援",
+        "申請スケジュールのご相談"
+      ],
+      "cards": [
+        {
+          "classes": [
+            "card",
+            "subsidy-card"
+          ],
+          "heading": "中小企業省力化投資補助金\n（一般型）の活用可能性",
+          "paragraphs": [
+            "弊社AIを用いたシステムの導入は、業務効率化や生産性向上に資する取り組みとして、本補助金の対象となる可能性があります。"
+          ],
+          "bullets": [],
+          "images": [
+            "./assets/image2_subsidy_investment.png"
+          ],
+          "text": "中小企業省力化投資補助金\n（一般型）の活用可能性弊社AIを用いたシステムの導入は、業務効率化や生産性向上に資する取り組みとして、本補助金の対象となる可能性があります。条件次第で 最大6,500 万円"
+        },
+        {
+          "classes": [
+            "card",
+            "subsidy-card"
+          ],
+          "heading": "申請可否の確認や\n資料整理のサポート",
+          "paragraphs": [
+            "補助金の申請に必要な要件確認や、申請書類の整理・作成について、\n当社にてサポートいたします。ご不明点はお気軽にご相談ください。"
+          ],
+          "bullets": [
+            "対象要件の確認",
+            "必要資料の整理・作成支援",
+            "申請スケジュールのご相談"
+          ],
+          "images": [
+            "./assets/image2_subsidy_support.png"
+          ],
+          "text": "申請可否の確認や\n資料整理のサポート補助金の申請に必要な要件確認や、申請書類の整理・作成について、\n当社にてサポートいたします。ご不明点はお気軽にご相談ください。対象要件の確認必要資料の整理・作成支援申請スケジュールのご相談"
+        }
+      ],
+      "text_blocks": [
+        {
+          "tag": "span",
+          "classes": [
+            "rail-chapter"
+          ],
+          "role": "body",
+          "text": "Chapter3"
+        },
+        {
+          "tag": "span",
+          "classes": [
+            "rail-copy"
+          ],
+          "role": "body",
+          "text": "Copyright @Field X inc.All rights reserved."
+        },
+        {
+          "tag": "span",
+          "classes": [
+            "rail-page"
+          ],
+          "role": "body",
+          "text": "12"
+        },
+        {
+          "tag": "p",
+          "classes": [
+            "chapter-label"
+          ],
+          "role": "body",
+          "text": "Chapter3"
+        },
+        {
+          "tag": "h2",
+          "classes": [],
+          "role": "title",
+          "text": "弊社AI導入による補助金活用支援について"
+        },
+        {
+          "tag": "p",
+          "classes": [
+            "lead"
+          ],
+          "role": "lead",
+          "text": "本システム導入にあたり、下記の補助金の活用が可能です。"
+        },
+        {
+          "tag": "h3",
+          "classes": [],
+          "role": "heading",
+          "text": "中小企業省力化投資補助金\n（一般型）の活用可能性"
+        },
+        {
+          "tag": "p",
+          "classes": [],
+          "role": "body",
+          "text": "弊社AIを用いたシステムの導入は、業務効率化や生産性向上に資する取り組みとして、本補助金の対象となる可能性があります。"
+        },
+        {
+          "tag": "div",
+          "classes": [
+            "amount-box"
+          ],
+          "role": "body",
+          "text": "条件次第で 最大6,500 万円"
+        },
+        {
+          "tag": "strong",
+          "classes": [],
+          "role": "body",
+          "text": "最大6,500"
+        },
+        {
+          "tag": "h3",
+          "classes": [],
+          "role": "heading",
+          "text": "申請可否の確認や\n資料整理のサポート"
+        },
+        {
+          "tag": "p",
+          "classes": [],
+          "role": "body",
+          "text": "補助金の申請に必要な要件確認や、申請書類の整理・作成について、\n当社にてサポートいたします。ご不明点はお気軽にご相談ください。"
+        },
+        {
+          "tag": "li",
+          "classes": [],
+          "role": "bullet",
+          "text": "対象要件の確認"
+        },
+        {
+          "tag": "li",
+          "classes": [],
+          "role": "bullet",
+          "text": "必要資料の整理・作成支援"
+        },
+        {
+          "tag": "li",
+          "classes": [],
+          "role": "bullet",
+          "text": "申請スケジュールのご相談"
+        },
+        {
+          "tag": "p",
+          "classes": [],
+          "role": "body",
+          "text": "補助金の採択を保証するものではありません。\n最新の制度内容や詳細については、公式サイト等でご確認ください。"
+        }
+      ],
+      "shapes": [
+        {
+          "tag": "aside",
+          "classes": [
+            "side-rail",
+            "chapter-rail",
+            "deck-rail"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "./assets/image2_subsidy_investment.png",
+          "resolved": "C:\\Users\\81809\\OneDrive\\デスクトップ\\事業\\資料作成\\out\\sanko_html\\rebuilt_slides\\assets\\image2_subsidy_investment.png",
+          "classes": [],
+          "alt": "",
+          "role": "image",
+          "exists": true
+        },
+        {
+          "src": "./assets/image2_subsidy_support.png",
+          "resolved": "C:\\Users\\81809\\OneDrive\\デスクトップ\\事業\\資料作成\\out\\sanko_html\\rebuilt_slides\\assets\\image2_subsidy_support.png",
+          "classes": [],
+          "alt": "",
+          "role": "image",
+          "exists": true
+        }
+      ],
+      "icons": [
+        {
+          "src": "./assets/image2_subsidy_investment.png",
+          "resolved": "C:\\Users\\81809\\OneDrive\\デスクトップ\\事業\\資料作成\\out\\sanko_html\\rebuilt_slides\\assets\\image2_subsidy_investment.png",
+          "classes": [],
+          "alt": "",
+          "role": "image",
+          "exists": true
+        },
+        {
+          "src": "./assets/image2_subsidy_support.png",
+          "resolved": "C:\\Users\\81809\\OneDrive\\デスクトップ\\事業\\資料作成\\out\\sanko_html\\rebuilt_slides\\assets\\image2_subsidy_support.png",
+          "classes": [],
+          "alt": "",
+          "role": "image",
+          "exists": true
+        }
+      ],
+      "layout_notes": {
+        "has_rail": true,
+        "is_divider": false,
+        "card_count": 2,
+        "image_count": 2,
+        "missing_image_count": 0
+      }
+    }
+  ]
+}

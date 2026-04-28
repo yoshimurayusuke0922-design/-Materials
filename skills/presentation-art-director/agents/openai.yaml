@@ -1,0 +1,4 @@
+interface:
+  display_name: "Presentation Art Director"
+  short_description: "Improve proposal deck visual quality and slide composition."
+  default_prompt: "Use $presentation-art-director to redesign a proposal deck with stronger hierarchy and cleaner slide composition."

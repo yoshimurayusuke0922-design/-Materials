@@ -1,0 +1,281 @@
+{
+  "asset_count": 25,
+  "missing_asset_count": 7,
+  "assets": [
+    {
+      "src": "./assets/fieldx_logo_full.png",
+      "resolved": "C:\\Users\\81809\\OneDrive\\デスクトップ\\事業\\資料作成\\out\\sanko_html\\rebuilt_slides\\assets\\fieldx_logo_full.png",
+      "exists": true,
+      "roles": [
+        "logo"
+      ],
+      "used_on_slides": [
+        1
+      ]
+    },
+    {
+      "src": "./assets/image2_proposal_core_system.png",
+      "resolved": "C:\\Users\\81809\\OneDrive\\デスクトップ\\事業\\資料作成\\out\\sanko_html\\rebuilt_slides\\assets\\image2_proposal_core_system.png",
+      "exists": true,
+      "roles": [
+        "image"
+      ],
+      "used_on_slides": [
+        4
+      ]
+    },
+    {
+      "src": "./assets/image2_proposal_repair_contract.png",
+      "resolved": "C:\\Users\\81809\\OneDrive\\デスクトップ\\事業\\資料作成\\out\\sanko_html\\rebuilt_slides\\assets\\image2_proposal_repair_contract.png",
+      "exists": true,
+      "roles": [
+        "image"
+      ],
+      "used_on_slides": [
+        4
+      ]
+    },
+    {
+      "src": "./assets/image2_proposal_mobile_ui.png",
+      "resolved": "C:\\Users\\81809\\OneDrive\\デスクトップ\\事業\\資料作成\\out\\sanko_html\\rebuilt_slides\\assets\\image2_proposal_mobile_ui.png",
+      "exists": true,
+      "roles": [
+        "image"
+      ],
+      "used_on_slides": [
+        4
+      ]
+    },
+    {
+      "src": "./assets/image2_proposal_extension_ai.png",
+      "resolved": "C:\\Users\\81809\\OneDrive\\デスクトップ\\事業\\資料作成\\out\\sanko_html\\rebuilt_slides\\assets\\image2_proposal_extension_ai.png",
+      "exists": true,
+      "roles": [
+        "image"
+      ],
+      "used_on_slides": [
+        4
+      ]
+    },
+    {
+      "src": "./assets/image2_demo_property.png",
+      "resolved": "C:\\Users\\81809\\OneDrive\\デスクトップ\\事業\\資料作成\\out\\sanko_html\\rebuilt_slides\\assets\\image2_demo_property.png",
+      "exists": true,
+      "roles": [
+        "image"
+      ],
+      "used_on_slides": [
+        6
+      ]
+    },
+    {
+      "src": "./assets/image2_demo_resident.png",
+      "resolved": "C:\\Users\\81809\\OneDrive\\デスクトップ\\事業\\資料作成\\out\\sanko_html\\rebuilt_slides\\assets\\image2_demo_resident.png",
+      "exists": true,
+      "roles": [
+        "image"
+      ],
+      "used_on_slides": [
+        6
+      ]
+    },
+    {
+      "src": "./assets/image2_demo_maintenance.png",
+      "resolved": "C:\\Users\\81809\\OneDrive\\デスクトップ\\事業\\資料作成\\out\\sanko_html\\rebuilt_slides\\assets\\image2_demo_maintenance.png",
+      "exists": true,
+      "roles": [
+        "image"
+      ],
+      "used_on_slides": [
+        6
+      ]
+    },
+    {
+      "src": "./assets/demo_screenshots/demo_1_main.png",
+      "resolved": "C:\\Users\\81809\\OneDrive\\デスクトップ\\事業\\資料作成\\out\\sanko_html\\rebuilt_slides\\assets\\demo_screenshots\\demo_1_main.png",
+      "exists": false,
+      "roles": [
+        "css-background-image"
+      ],
+      "used_on_slides": [
+        6
+      ]
+    },
+    {
+      "src": "./assets/image2_demo_contract.png",
+      "resolved": "C:\\Users\\81809\\OneDrive\\デスクトップ\\事業\\資料作成\\out\\sanko_html\\rebuilt_slides\\assets\\image2_demo_contract.png",
+      "exists": true,
+      "roles": [
+        "image"
+      ],
+      "used_on_slides": [
+        7
+      ]
+    },
+    {
+      "src": "./assets/image2_demo_invoice.png",
+      "resolved": "C:\\Users\\81809\\OneDrive\\デスクトップ\\事業\\資料作成\\out\\sanko_html\\rebuilt_slides\\assets\\image2_demo_invoice.png",
+      "exists": true,
+      "roles": [
+        "image"
+      ],
+      "used_on_slides": [
+        7
+      ]
+    },
+    {
+      "src": "./assets/image2_demo_phone.png",
+      "resolved": "C:\\Users\\81809\\OneDrive\\デスクトップ\\事業\\資料作成\\out\\sanko_html\\rebuilt_slides\\assets\\image2_demo_phone.png",
+      "exists": true,
+      "roles": [
+        "image"
+      ],
+      "used_on_slides": [
+        7
+      ]
+    },
+    {
+      "src": "./assets/demo_screenshots/demo_2_pc.png",
+      "resolved": "C:\\Users\\81809\\OneDrive\\デスクトップ\\事業\\資料作成\\out\\sanko_html\\rebuilt_slides\\assets\\demo_screenshots\\demo_2_pc.png",
+      "exists": false,
+      "roles": [
+        "css-background-image"
+      ],
+      "used_on_slides": [
+        7
+      ]
+    },
+    {
+      "src": "./assets/demo_screenshots/demo_2_phone.png",
+      "resolved": "C:\\Users\\81809\\OneDrive\\デスクトップ\\事業\\資料作成\\out\\sanko_html\\rebuilt_slides\\assets\\demo_screenshots\\demo_2_phone.png",
+      "exists": false,
+      "roles": [
+        "css-background-image"
+      ],
+      "used_on_slides": [
+        7
+      ]
+    },
+    {
+      "src": "./assets/demo_screenshots/demo_3_own_listing.png",
+      "resolved": "C:\\Users\\81809\\OneDrive\\デスクトップ\\事業\\資料作成\\out\\sanko_html\\rebuilt_slides\\assets\\demo_screenshots\\demo_3_own_listing.png",
+      "exists": false,
+      "roles": [
+        "css-background-image"
+      ],
+      "used_on_slides": [
+        8
+      ]
+    },
+    {
+      "src": "./assets/demo_screenshots/demo_3_partner_listing.png",
+      "resolved": "C:\\Users\\81809\\OneDrive\\デスクトップ\\事業\\資料作成\\out\\sanko_html\\rebuilt_slides\\assets\\demo_screenshots\\demo_3_partner_listing.png",
+      "exists": false,
+      "roles": [
+        "css-background-image"
+      ],
+      "used_on_slides": [
+        8
+      ]
+    },
+    {
+      "src": "./assets/demo_screenshots/demo_3_response_email.png",
+      "resolved": "C:\\Users\\81809\\OneDrive\\デスクトップ\\事業\\資料作成\\out\\sanko_html\\rebuilt_slides\\assets\\demo_screenshots\\demo_3_response_email.png",
+      "exists": false,
+      "roles": [
+        "css-background-image"
+      ],
+      "used_on_slides": [
+        8
+      ]
+    },
+    {
+      "src": "./assets/demo_screenshots/demo_3_ai_assist.png",
+      "resolved": "C:\\Users\\81809\\OneDrive\\デスクトップ\\事業\\資料作成\\out\\sanko_html\\rebuilt_slides\\assets\\demo_screenshots\\demo_3_ai_assist.png",
+      "exists": false,
+      "roles": [
+        "css-background-image"
+      ],
+      "used_on_slides": [
+        8
+      ]
+    },
+    {
+      "src": "./assets/image2_work/generated/17.png",
+      "resolved": "C:\\Users\\81809\\OneDrive\\デスクトップ\\事業\\資料作成\\out\\sanko_html\\rebuilt_slides\\assets\\image2_work\\generated\\17.png",
+      "exists": true,
+      "roles": [
+        "image"
+      ],
+      "used_on_slides": [
+        10
+      ]
+    },
+    {
+      "src": "./assets/image2_future_ai_reply.png",
+      "resolved": "C:\\Users\\81809\\OneDrive\\デスクトップ\\事業\\資料作成\\out\\sanko_html\\rebuilt_slides\\assets\\image2_future_ai_reply.png",
+      "exists": true,
+      "roles": [
+        "image"
+      ],
+      "used_on_slides": [
+        10
+      ]
+    },
+    {
+      "src": "./assets/image2_future_search.png",
+      "resolved": "C:\\Users\\81809\\OneDrive\\デスクトップ\\事業\\資料作成\\out\\sanko_html\\rebuilt_slides\\assets\\image2_future_search.png",
+      "exists": true,
+      "roles": [
+        "image"
+      ],
+      "used_on_slides": [
+        10
+      ]
+    },
+    {
+      "src": "./assets/image2_future_sales.png",
+      "resolved": "C:\\Users\\81809\\OneDrive\\デスクトップ\\事業\\資料作成\\out\\sanko_html\\rebuilt_slides\\assets\\image2_future_sales.png",
+      "exists": true,
+      "roles": [
+        "image"
+      ],
+      "used_on_slides": [
+        10
+      ]
+    },
+    {
+      "src": "./assets/image2_future_documents.png",
+      "resolved": "C:\\Users\\81809\\OneDrive\\デスクトップ\\事業\\資料作成\\out\\sanko_html\\rebuilt_slides\\assets\\image2_future_documents.png",
+      "exists": true,
+      "roles": [
+        "image"
+      ],
+      "used_on_slides": [
+        10
+      ]
+    },
+    {
+      "src": "./assets/image2_subsidy_investment.png",
+      "resolved": "C:\\Users\\81809\\OneDrive\\デスクトップ\\事業\\資料作成\\out\\sanko_html\\rebuilt_slides\\assets\\image2_subsidy_investment.png",
+      "exists": true,
+      "roles": [
+        "image"
+      ],
+      "used_on_slides": [
+        12
+      ]
+    },
+    {
+      "src": "./assets/image2_subsidy_support.png",
+      "resolved": "C:\\Users\\81809\\OneDrive\\デスクトップ\\事業\\資料作成\\out\\sanko_html\\rebuilt_slides\\assets\\image2_subsidy_support.png",
+      "exists": true,
+      "roles": [
+        "image"
+      ],
+      "used_on_slides": [
+        12
+      ]
+    }
+  ]
+}

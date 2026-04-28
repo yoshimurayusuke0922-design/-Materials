@@ -1,0 +1,50 @@
+{
+  "text_elements": [
+    {
+      "id": "client_name",
+      "text": "株式会社三幸 御中",
+      "role": "recipient"
+    },
+    {
+      "id": "eyebrow",
+      "text": "PROPOSAL",
+      "role": "eyebrow"
+    },
+    {
+      "id": "title",
+      "text": "日常業務の効率化と将来的な展望を見据えた基幹管理システムのご提案",
+      "role": "title"
+    },
+    {
+      "id": "subtitle",
+      "text": "物件、入居者、契約、反響対応を一つの流れで扱う業務基盤の整備",
+      "role": "subtitle"
+    },
+    {
+      "id": "issue_date",
+      "text": "2026年04月26日",
+      "role": "date"
+    }
+  ],
+  "image_elements": [
+    {
+      "id": "fieldx_logo",
+      "type": "logo",
+      "description": "Field Xロゴ"
+    }
+  ],
+  "decorative_elements": [
+    {
+      "id": "shape_top_soft_circle",
+      "type": "soft_circle"
+    },
+    {
+      "id": "shape_right_blob",
+      "type": "organic_blob"
+    },
+    {
+      "id": "shape_bottom_left_blob",
+      "type": "organic_blob"
+    }
+  ]
+}
