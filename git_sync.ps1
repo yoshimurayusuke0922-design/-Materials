@@ -1,49 +1,41 @@
 ﻿$targetPath = "C:\Users\81809\OneDrive\デスクトップ\事業\資料作成"
 
-# フォルダの存在確認
+# 通信設定の最適化（巨大ファイルの送信エラー対策）
+git config http.postBuffer 524288000
+git config http.lowSpeedLimit 0
+git config http.lowSpeedTime 999999
+
 if (-not (Test-Path -LiteralPath $targetPath)) {
-    Write-Host "Error: Target path not found: $targetPath" -ForegroundColor Red
+    Write-Host "Error: Target path not found." -ForegroundColor Red
     return
 }
-
-# フォルダへ移動
 Set-Location -LiteralPath $targetPath -ErrorAction Stop
 
-# Gitリポジトリの初期化
-if (-not (Test-Path ".git")) {
-    git init
-    git branch -M main
-    Write-Host "Initialized Git repository in target folder." -ForegroundColor Cyan
-}
+# 不要な巨大フォルダのインデックスを強制クリーンアップ
+Write-Host "Cleaning index for heavy folders..." -ForegroundColor Gray
+git rm -r --cached work/ out/ analysis/ intermediate/ logs/ 2>$null
 
-# 全ファイルのステージングと変更の確認
+# 変更のコミット
 git add .
 $status = git status --porcelain
 if ($status) {
     $commitMsg = "Sync: $(Get-Date -Format 'yyyy-MM-dd HH:mm:ss')"
     git commit -m $commitMsg
-    Write-Host "Committed changes: $commitMsg" -ForegroundColor Green
-} else {
-    Write-Host "No changes to commit." -ForegroundColor Yellow
+    Write-Host "Committed: $commitMsg" -ForegroundColor Green
 }
 
-# リモートリポジトリのURL設定（未設定の場合のみ入力を求める）
+# リモートURLの確認と再設定
+$remoteUrl = "https://github.com/yoshimurayusuke0922-design/-Materials.git"
 if (-not (git remote)) {
-    $url = Read-Host "Enter Remote URL (e.g., https://github.com/user/repo.git)"
-    if ($url) {
-        git remote add origin $url
-    } else {
-        Write-Host "Push cancelled: Remote URL is required." -ForegroundColor Yellow
-        return
-    }
+    git remote add origin $remoteUrl
 }
 
-# Pushの実行
-Write-Host "Pushing to remote..." -ForegroundColor Cyan
-git push -u origin main
+# 強制Push（履歴の書き換えを反映）
+Write-Host "Pushing to GitHub (Force)..." -ForegroundColor Cyan
+git push -u origin main --force
 
 if ($LASTEXITCODE -eq 0) {
     Write-Host "Sync successful!" -ForegroundColor Green
 } else {
-    Write-Host "Push failed. Check authentication or remote URL." -ForegroundColor Red
+    Write-Host "Push failed. Check connection or authentication." -ForegroundColor Red
 }

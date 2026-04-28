@@ -7,3 +7,10 @@ service_account.json
 ~$*
 .~lock.*
 *.tmp
+
+# Generated folders and logs
+work/
+out/
+analysis/
+intermediate/
+logs/
