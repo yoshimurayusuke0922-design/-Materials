@@ -13,7 +13,8 @@ Set-Location -LiteralPath $targetPath -ErrorAction Stop
 
 # 不要な巨大フォルダのインデックスを強制クリーンアップ
 Write-Host "Cleaning index for heavy folders..." -ForegroundColor Gray
-git rm -r --cached work/ out/ analysis/ intermediate/ logs/ 2>$null
+# APIキーが漏洩しやすい一時ファイル(work/)のみを除外対象に固定
+git rm -r --cached work/ 2>$null
 
 # 変更のコミット
 git add .
@@ -31,8 +32,8 @@ if (-not (git remote)) {
 }
 
 # 強制Push（履歴の書き換えを反映）
-Write-Host "Pushing to GitHub (Force)..." -ForegroundColor Cyan
-git push -u origin main --force
+Write-Host "Pushing to GitHub..." -ForegroundColor Cyan
+git push -u origin main
 
 if ($LASTEXITCODE -eq 0) {
     Write-Host "Sync successful!" -ForegroundColor Green

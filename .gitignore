@@ -10,7 +10,3 @@ service_account.json
 
 # Generated folders and logs
 work/
-out/
-analysis/
-intermediate/
-logs/
