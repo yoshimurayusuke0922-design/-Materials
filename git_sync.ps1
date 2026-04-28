@@ -11,13 +11,11 @@ if (-not (Test-Path -LiteralPath $targetPath)) {
 }
 Set-Location -LiteralPath $targetPath -ErrorAction Stop
 
-# 不要な巨大フォルダのインデックスを強制クリーンアップ
-Write-Host "Cleaning index for heavy folders..." -ForegroundColor Gray
-# APIキーが漏洩しやすい一時ファイル(work/)のみを除外対象に固定
-git rm -r --cached work/ 2>$null
-
 # 変更のコミット
 git add .
+# 前回の操作で追跡から外れてしまったフォルダを強制的に追加し直す
+git add out/ analysis/ intermediate/ logs/ 2>$null
+
 $status = git status --porcelain
 if ($status) {
     $commitMsg = "Sync: $(Get-Date -Format 'yyyy-MM-dd HH:mm:ss')"
